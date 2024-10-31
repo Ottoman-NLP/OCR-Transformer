@@ -1,0 +1,9 @@
+CompileFlags:
+  Add:
+    - "-IC:/vcpkg/installed/x64-windows/include"
+    - "-IC:/vcpkg/installed/x64-windows/include/imgui"
+    - "-IC:/Python311/include"
+    - "-I${workspaceFolder}/src/visualization/cpp"
+    - "-DIMGUI_IMPL_API=__declspec(dllexport)"
+    - "-DGLFW_DLL"
+  Compiler: clang++ 

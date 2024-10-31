@@ -1,0 +1,1433 @@
+[
+    {
+        "noisy": "Bu gökte, bu yerde ve bu arada ne varsa hayal mahsulüdür,.",
+        "clean": "Bu gökte, bu yerde ve bu arada ne varsa hayal mahsulüdür.\n"
+    },
+
+    {
+        "noisy":"O halde yerden göğe kadar var olan her şeyin hepsi sayılmış olup sayıdan âri değildir.",
+        "clean":"O halde yerden göğe kadar var olan her şeyin hepsi sayılmış olup sayıdan ari değildir.\n"
+    },
+
+    {
+        "noisy": "1353] 768 7 Mütevekkil bin Mu’tedîd 763 [m.",
+        "clean": "Mütevekkil bin Mu'tedi.\n"
+    },
+
+    {
+        "noisy": "Sonunda hilâfet senindir.",
+        "clean": "Sonunda hilafet senindir.\n"
+    },
+
+    {
+        "noisy":"1109Şehzâde Alaâddin Gaybî",
+        "clean":"Şehzade Alaaddin Gaybi.\n"
+    },
+
+    {
+        "noisy":"162\n-ZÂ’-207Mefâ`îlün Mefâ`îlün Mefâ`îlün Mefâ`îlün \n1 Belâlu `âşık itmez dime lutf ile vefâdan haz \n Tabîbüm yohsa bîmâr olan itmez mi devâdan haz \n2 Nazar kıl hışm ile râ kaşlaruñ çat ey hilâl-ebrû \n Göñül kesb-i safâ eyler ider cânum bu râdan haz ",
+        "clean":"Mefailün Mefailün Mefailün Mefailün \nBelalu aşık itmez dime lutf ile vefadan haz \nTabibüm yohsa bimar olan itmez mi devadan haz \nNazar kıl hışm ile ra karşlarun çat ey hilal-ebru \nGönül kesb-i safa eyler ider canum buradan haz\n"
+    },
+
+    {
+        "noisy":"Bunun için, fıkh âlimlerimiz “rahime-hümullahü teâlâ” hac vazîfesini yapdıkdan sonra, Medîne-i münevvereye gelerek, Mescid-i şerîfde nemâz kıldılar...",
+        "clean":"Bunun için, fıkh alimlerimiz “rahime-hümullahü teala” hac vazifesini yapdıkdan sonra, Medine-i münevvereye gelerek, Mescid-i şerifde nemaz kıldılar.\n"
+    },
+
+    {
+        "noisy":"Sonra (Ravda-i mutahhera) ile minber-i münîri ve Arş-ı a’lâdan efdal olan Kabr-i şerîfi, sonra oturdukları, yürüdükleri, dayandıkları yerleri, vahy geldiği zemân dayandıkları \ndireği ve mescid yapılırken ve ta’mîr edilirken çalışan ve para vermekle şereflenen Eshâb-ı kirâmın ve Tâbi’înin “radıyallahü teâlâ \nanhüm ecma’în” geçdikleri yerleri ziyâret ederler, görmekle bereketlenirlerdi..",
+        
+        "clean":"Sonra Ravda-i mutahhera ile minber-i müniri ve Arş-ı a'ladan efdal olan Kabr-i şerifi, sonra oturdukları, yürüdükleri, dayandıkları yerleri, vahy geldiği zeman dayandıkları direği ve mescid yapılırken ve ta'mir edilirken çalışan ve para vermekle şereflenen Eshab-ı kiramın ve Tabi'inin radıyallahü teala anhüm ecma'in geçdikleri yerleri ziyaret ederler, görmekle bereketlenirlerdi.\n"
+    },
+
+    {
+        "noisy":"sonra Medîneye gelirler, fıkh âlimlerimiz gibi yaparlardı. Bugüne.",
+        "clean":"Sonra Medine-i münevverede ziyaret ederler, fıkh alimlerimiz gibi yaparlardı.\n"
+    },
+
+    {
+        "noisy":"Vâcib diyen âlimler de vardır. Kabr ziyâreti sünnetdir.",
+        "clean":"Vacib diyen alimler de vardır. \nKabr ziyareti sünnetdir.\n"
+    },
+
+    {
+        "noisy":"Kabr ziyâreti sünnetdir. Kabrlerin en kıymetlisi olan (Hucre-i se’âdet)i ziyâret, sünnetlerin en kıymetlisi olur.",
+        "clean":"Kabr ziyareti sünnetdir. \nKabrlerin en kıymetlisi olan Hucre-i se'adeti ziyaret, sünnetlerin en kıymetlisi olur.\n"
+    },
+
+    {
+        "noisy":"Resûlullah “sallallahü aleyhi ve sellem” Bakî kabristânını ,,ve Uhud şehîdlerini ziyâret ederdi.",
+        "clean":"Resulullah sallallahü aleyhi ve sellem Baki kabristanını ve Uhud şehitlerini ziyaret ederdi.\n"
+    },
+
+    {
+        "noisy":"Hindistânın büyük âlimlerinden, Abdülhak-ı Dehlevî “rahime-hullahü teâlâ” 1052 [1642] de vefât etdi.",
+        "clean":"Hindistanın büyük alimlerinden, Abdülhak-ı Dehlevî rahime-hullahü teala 1052'de vefat etti.\n"
+    },
+
+    {
+        "noisy":"Fârisî (Medâric-ün-nübüvve) kitâbında Uhud şehîdlerini anlatırken buyuruyor ki, Ebû Ferde “radıyallahü anh” buyurdu ki, Resûlullah “sallallahü aleyhi ve sellem”, birgün Uhud şehîdlerini ziyâret etti.",
+        "clean":"Farisi Medaric-ün-nubuvve kitabında Uhud şehitlerini anlatırken buyuruyor ki, Ebu Ferde radıyallahü anh buyurdu ki, Resulullah sallallahü aleyhi ve sellem bir gün Uhud şehitlerini ziyaret etti.\n"
+    },
+
+    {
+        "noisy":"Peygamberimiz, Uhud şehîdlerini ziyâret etti, (Sabr etdiniz. Size selâm olsun!) buyururdu.",
+        "clean":"Peygamberimiz Uhud şehitlerini ziyaret etti, (Sabr ettiniz. Size selam olsun!) buyururdu.\n"
+    },
+
+    {
+        "noisy":"Hazret-i Ebû Bekr ve hazret-i Ömer “radıyallahü teâlâ anhümâ” de, halîfe iken, Uhud şehîdlerini ziyâret ederek, böyle söylerlerdi.",
+        "clean":"Hazret-i Ebu Bekr ve hazret-i Ömer radıyallahü teala anhüma de, halife iken, Uhud şehitlerini ziyaret ederek, böyle söylerlerdi.\n"
+    },
+
+    {
+        "noisy":"Fâtıma-ı Huzâiyye “rahime-hullahü teâlâ” diyor ki, Uhud meydânından geçiyordum. (Ey Resûlün amcası Hamza “radıyallahü teâlâ anh”, sana selâm olsun!) dedim. (Allahın selâmı ve selâm-i müşriklerinin selâmiyle selâm olsun!) buyurdular.",
+        "clean":"Fatima-ı Huzaiyye rahime-hullahü teala diyor ki, Uhud meydanından geçiyordum. \nEy Resulün amcası Hamza radıyallahü teala anh, sana selam olsun, dedim. \nAllahın selamı ve selam-i müşriklerin selamiyle selam olsun, buyurdular.\n"
+    },
+
+    {
+        "noisy":"Kâdî İyâd 544 [1150] de Merrâkişde, Yahyâ Nevevî 676 [1277] de Şâmda, İbni Hümâm Muhammed Sivâsî de 861 [1456] de vefât etdiler.",
+        "clean":"Kadi İyad 544'de Merrakişte, Yahya Nevevi 676'da Şam'da, İbni Hümam Muhammed Sivasi 861'de vefat ettiler.\n"
+    },
+
+    {
+        "noisy":"Abdülhamîd hân 1336 [1918] de vefât etdi.",
+        "clean":"Abdülhamid han 1336'da vefat etti.\n"
+    },
+
+    {
+        "noisy":"[1] Abdülhamîd hân 1336 [1918] de vefât etdi.",
+        "clean":"Abdülhamid han 1336'da vefat etti.\n"
+    },
+
+    {
+        "noisy":"Süâl: İmâm-ı Hasen bin Alî “radıyallahü teâlâ anh”, Kabr-i\nse’âdet yanında ziyâretcilerin kabre yaklaşmalarına izn vermezdi.",
+        "clean":"Sual: \nİmam-ı Hasen bin Alî radıyallahü teala anh, Kabr-i se'adet yanında ziyaretçilerin kabre yaklaşmalarına izn vermezdi.\n"
+    },
+
+    {
+        "noisy":"Cevâb: Bu sözler, (yalnız üç mescide ziyâret için gidilir) hadîs-i şerîfine uygun değildir. Fekat, bu iki imâmın sözü, ziyâretde saygısızlık yapanlar için olsa gerekdir. Hattâ imâm-ı Mâlik “rahmetullahi aleyh”, Kabr-i se’âdet yanında çokca oturmağa izn vermemişdir. İmâm-ı Zeynel’âbidîn “rahime-hullahü teâlâ Hucre-i se’âdeti ziyâret ederdi.(Ravda-i mutahhera)tarafındaki direk yanında durup, selâm verirdi. Resûlullahın “sallallahü aleyhi ve sellem” mubârek başının, hucrenin bu tarafında olduğu, bundan anlaşılırdı. Resûlullahın mubârek zevcelerinin “radıyallahü teâlâ anhünne” odaları (Mescid-i se’âdet) içine katılmazdan önce, burası, ziyâret yeridir. Hucre-i se’âdetin kapısı önünde durup selâm verirlerdi.",
+        "clean":"Cevab: \nBu sözler, yalnız üç mescide ziyaret için gidilir, hadis-i şerifine uygun değildir. \nFekat, bu iki imamın sözü, ziyaretde saygısızlık yapanlar için olsa gerekdir. \nHatta imam-ı Malik 'rahmetullahi aleyh', Kabr-i se'adet yanında çokca oturmağa izn vermemişdir. \nİmam-ı Zeynel'abidin 'rahime-hullahü teala' Hücre-i se'adeti ziyaret ederdi. \nRavda-i mutahhera tarafındaki direk yanında durup, selam verirdi. \nResulullah'ın 'sallallahü aleyhi ve sellem' mübarek başının, hücrenin bu tarafında olduğu, bundan anlaşılırdı. nResulullahın mubarek zevcelerinin radıyallahü teâlâ anhünne odaları Mescid-i se'adet içine katılmazdan önce, burası, ziyaret yeridir. \nHücre-i se'adetin kapısı önünde durup selam verirlerdi.\n"
+    },
+
+    {
+        "noisy":"Hârun bin Mûsâ Hirevî, ceddi Alkamaya sordu ki, Peygamberimizin mubârek zevcelerinin “radıyallahü teâlâ anhünne” odaları Mescid-i se’âdete katılmazdan önce Kabr-i se’âdet hangi tarafından ziyâret olunurdu?",
+        "clean":"Hürun bin Musa Hirevi, ceddi Alkamaya sordu ki, Peygamberimizin mubarek zevcelerinin radıyallahü teala anhünne odaları Mescid-i se'adet içine katılmazdan önce Kabr-i se'adet hangi tarafından ziyaret olunurdu?\n"
+    },
+
+    {
+        "noisy":"Cevâb: Bu sözler, (yalnız üç mescide ziyâret için gidilir) hadîs-i şerîfine uygun değildir. Fekat, bu iki imâmın sözü, ziyâretde saygısızlık yapanlar için olsa gerekdir. Hattâ imâm-ı Mâlik “rahmetullahi aleyh”, Kabr-i se’âdet yanında çokca oturmağa izn vermemişdir. İmâm-ı Zeynel’âbidîn “rahime-hullahü teâlâ” Hucre-i se’âdeti ziyâret ederdi. (Ravda-i mutahhera) tarafındaki direk yanında durup, selâm verirdi. Resûlullahın “sallallahü aleyhi ve sellem” mubârek başının, hucrenin bu tarafında olduğu, bundan anlaşılırdı. Resûlullahın mubârek zevcelerinin “radıyallahü teâlâ anhünne” odaları (Mescid-i se’âdet) içine katılmazdan önce, burası, ziyâret yeridir. Hucre-i se’âdetin kapısı önünde durup seelâm verirlerdi.",
+        "clean":"Cevab: Bu sözler, yalnız üç mescide ziyaret için gidilir, hadis-i şerifine uygun değildir. \nFekat, bu iki imamın sözü, ziyaretde saygısızlık yapanlar için olsa gerekdir. \nHatta imam-ı Malik 'rahmetullahi aleyh', Kabr-i se'adet yanında çokca oturmağa izn vermemişdir. \nİmam-ı Zeynel'abidin 'rahime-hullahü teala' Hucre-i se'adeti ziyaret ederdi. \nRavda-i mutahhera tarafındaki direk yanında durup, selam verirdi. Resûlullahın 'sallallahü aleyhi ve sellem' mubarek başının, hucrenin bu tarafında olduğu, bundan anlaşılırdı. \nResulullahın mubarek zevcelerinin 'radıyallahü teala anhünne' odaları Mescid-i se'adet içine katılmazdan önce, burası, ziyaret yeridir. \nHücre-i se'adetin kapısı önünde durup selam verirlerdi.\n"
+    },
+
+    {
+        "noisy":"Nitekim XIX yüzyılın sonlarında Merv’i gezen Edmond , halk arasında buraya İskender Kale denildiğini ve Büyük İskender tarafından inşa edildiğine inanıldığını söylemektedir.",
+        "clean":"Nitekim XIX. yüzyılın sonlarında Merv'i gezen Edmond, halk arasında buraya İskender Kale denildiğini ve Büyük İskender tarafından inşa edildiğine inanıldığını söylemektedir.\n"
+    },
+
+    {
+        "noisy":"Merv, Ahemanitler döneminde Murgiyana Satrablığının Merkezi olduğu bilinmektedir. O tarihten itibaren Horasan bölgesinin idari merkezi olarak kalmaya devam eden Merv, Ahamenitlerden sonra Büyük İskender ’in hakimiyetine girmiştir.",
+        "clean":"Merv, Ahemanitler döneminde Murgiyana Satrablığının Merkezi olduğu bilinmektedir. \nO tarihten itibaren Horasan bölgesinin idari merkezi olarak kalmaya devam eden Merv, Ahamenitlerden sonra Büyük İskender'in hakimiyetine girmiştir.\n"
+
+    },
+
+    {
+        "noisy":"Bilindiği gibi bu kütüphane daha sonra Me’mun tarafından Bağdat ’a taşınmış ve Beytu’l-Hikme ’nin özünü teşkil etmiştir.",
+        "clean":"Bilindiği gibi bu kütüphane daha sonra Me'mun tarafından Bağdat'a taşınmış ve Beytu'l-Hikme'nin özünü teşkil etmiştir.\n"
+    },
+
+    {
+        "noisy":"Büyük İskender ’in hakimiyeti altında kalan Merv, 1221 yılında İbn Tohtul ’un elinden kurtarılmıştır.",
+        "clean":"Büyük İskender'in hakimiyeti altında kalan Merv, 1221 yılında İbn Tohtul'un elinden kurtarılmıştır.\n"
+    },
+
+    {
+        "noisy":"Bundan ma‘ada tarih-i tabi‘i erbab-ı ulumunca da musaddak olduğu üzere dünyada en süslü ve güzel yaratılan mahlukatın tuyur cinsi oldukları da *<  şüphesizdir..",
+        "clean":"Bundan ma'ada tarih-i tabi'i erbab-ı ulumunca da musaddak olduğu üzere dünyada en süslü ve güzel yaratılan mahlukatın tuyur cinsi oldukları da şüphesizdir.\n"
+    },
+
+    {
+        "noisy":"Bunlardan anlaşılıyor ki, Kabr-i se’âdeti ziyâret için gelenler, \nselâm verip düâ etdikden sonra, durmayıp gitmelidir. Müslimânlar, Kabr-i se’âdeti ziyâret etmeği, ibâdet ve çok sevâb bilmeli.",
+        "clean":"Bunlardan anlaşılıyor ki, Kabr-i se'adeti ziyaret için gelenler, selam verip du'a etdikden sonra, durmayıp gitmelidir. \nMüslimanlar, Kabr-i se'adeti ziyaret etmeği, ibadet ve çok sevab bilmeli.\n"
+    },
+
+    {
+        "noisy":"Bunun için, fıkh âlimlerimiz “rahime-hullahü teâlâ” h a c vazîfesini yapdıkdan sonra, Medîne-imünevvereye gelerek, Mescid-i şerîfde nemâz kıldılar...",
+        "clean":"Bunun için, fıkh alimlerimiz 'rahime-hullahü teala' hac vazifesini yapdıkdan sonra, Medine-i münevvereye gelerek, Mescid-i şerifde namaz kıldılar...\n"
+    },
+
+    {
+        "noisy":"İslâm âlimlerinin güneşi Ebû Hanîfe “rahime-hullahü teâlâ”, müstehabların en üstünlerinden olan, Kabr-i se’âdetin ziyâreti, vâcib derecesine yakın bir ibâdetdir buyurdu.",
+        "clean":"İslam alimlerinin güneşi Ebu Hanife rahime-hullahü teala, müstehabların en üstünlerinden olan, Kabr-i se'adeti ziyareti, vacib derecesine yakın bir ibadetdir buyurdu.\n"
+    },
+    
+    
+    {
+        "noisy":"Süâl: Ebû Muhammed bin Ebû Zeydden “rahime-hullahü teâlâ” soruldu ki, vekîl olarak hacca gönderilen ve Kabr-i se’âdeti de\nziyâret etmesi emr olunan kimse, hac edip, Kabr-i se’âdeti ziyâret\netmeden geri dönse, ziyâret için, kendisine verilmiş olan parayı geri vermesi lâzım olur mu?",
+        "clean":"Sual: Ebu Muhammed bin Ebu Zeydden 'rahime-hullahü teala' soruldu ki, vekil olarak hacca gönderilen ve Kabr-i se'adeti deziyaret etmesi emr olunan kimse, hac edip, Kabr-i se'adeti ziyaret etmeden geri dönse, ziyaret için, kendisine verilmiş olan parayı geri vermesi lazım olur mu?\n"
+    },
+
+    {
+        "noisy":"Cevâ b: Bu sözler, (yalnız üç mescide ziyâret içingidilir) hadîs-i şerîfine uy gun değildir. Fkat, bu iki imâmın sözü, ziyâretde saygısızlık yapanlar için olsa gerekdir. Hattâ imâm-ı Mâlik “rahmetullahi aleyh”, Kabr-i se’âdet yanında çokca oturmağa izn vermemişdir. İmâm-ı Zeynel’âbidîn “rahime-hullahü teâlâ” Hucre-i se’âdeti ziyâret ederdi. (Ravda-i mutahhera) tarafındaki direk yanında durup, selâm verirdi. Resûlullahın “sallallahü aleyhi ve sellem” mubârek başının, hucrenin bu tarafında olduğu, bundan anlaşılırdı.",
+        "clean":"Cevab: Bu sözler, yalnız üç mescide ziyaret için gidilir, hadis-i şerifine uygun değildir. \nFakat, bu iki imamın sözü, ziyaretde saygısızlık yapanlar için olsa gerekdir. \nHatta imam-ı Malik 'rahmetullahi aleyh', Kabr-i se'adet yanında çokca oturmağa izn vermemişdir. \nİmam-ı Zeynel'abidin 'rahime-hullahü teala' Hucre-i se'adeti ziyaret ederdi. \nRavda-i mutahhera tarafındaki direk yanında durup, selam verirdi. \nResulullahın 'sallallahü aleyhi ve sellem' mubarek başının, hucrenin bu tarafında olduğu, bundan anlaşılırdı.\n"
+    },
+
+    {
+        "noisy":"[1] Ebülleys Nasr Semerkandî 373 [983] de vefât etdi.",
+        "clean":"Ebülleys Nasr Semerkandi 373'de vefat etti.\n"
+    },
+
+    {
+        "noisy":"[ 1 ] Ebülleys Nasr Semerkandî 373 [983 ]   de vefât et di.",
+        "clean":"Ebülleys Nasr Semerkandi 373'de vefat etti.\n"
+    },
+
+    {
+        "noisy":"İslâmiyyetde ilk yapılan türbe, Resûlullahın medfûn olduğu (Hucre-i muattara)dır..",
+        "clean":"İslamiyyet'de ilk yapılan türbe, Resulullahın medfun olduğu Hucre-i muattaradır.\n"
+    },
+
+    {
+        "noisy":"Resûlullah “sallallahü aleyhi ve sellem” efendimiz, çok sevdiği zevcesi Âişe “radıyallahü anhâ” vâlidemizin odasında, hicretin onbirinci 11 [632] senesi, Rebî’ulevvel ayının onikinci pazartesi günü, öğleden önce vefât etti.",
+        "clean":"Resulullah 'sallallahü aleyhi ve sellem' efendimiz, çok sevdiği zevcesi Aişe 'radıyallahü anha' validemizin odasında, hicretin on birinci 632'senesi, Rebi'ulevvel ayının on ikinci pazartesi günü, öğleden önce vefat etti.\n"
+    },
+
+    {
+        "noisy":"[1] İmâm-ı Mâlik “rahmetullahi aleyh” 222 [837] de  3 vefât etdi.",
+        "clean":"İmam-ı Malik 'rahmetullahi aleyh' 222'de vefat etti.\n"
+    },
+
+    {
+        "noisy":"Birçok yerlerin ismlerini değiş– 142 –\n\n[1] Abdül’azîz hân 1293 [1876] da şehîd edildi.\n\n\n\ndirip kendi ismlerini koydular.",
+        "clean":"Birçok yerlerin ismlerini değiştirip kendi ismlerini koydular.\nAbdülaziz han 1293'de şehid edildi.\n"
+    },
+
+    {
+        "noisy":"İmâm-ı Beyhekî “rahime-hullahü teâlâ”[2] bildiriyor ki, A bdullah ibni Ömer “radıyallahü teâlâ anhümâ” buyurdu ki, Cum’a\n\n– 143 –\n\n[1] Mahmûd hân 1255 [1839] da vefât etdi.\n[2] Beyhekî Ahmed 458 [1066] da Nişâpurda vefât etdi.\n\n\n\ngünü, güneş doğmadan önce, babam hazret-i Ömer ile, şehîdleri ziyârete gitdik.",
+        "clean":"İmam-ı Beyheki 'rahime-hullahü teala' bildiriyor ki, Abdullah ibn Ömer 'radıyallahü teala anha' buyurdu ki, Cum'a günü, güneş doğmadan önce, babam hazret-i Ömer ile, şehitleri ziyaret ettik.\n Mahmud han 1255'de vefat etti.\n Beyheki Ahmed 458'de Nişapur'da vefat etti.\n"
+    },
+
+    {
+        "noisy":"Dörtyüzonaltıncı sahîfesinde, (Ölüler kendilerine söylenileni\nduymazlar. Ölüden düâ, şefâ’at istemek, ona tapınmak olur) diyor.",
+        "clean":"Dört yüz on altıncı sahifesinde, Ölüler kendilerine söylenileni duymazlar. Ölüden du'a, şef'at istemek, ona tapınmak olur, diyor.\n"
+    },
+
+    {
+        "noisy":"İmâm-ı Rabbânî “kaddesallahü teâlâ sirrehül’azîz” ikiyüzellibeşinci mektûbda buyuruyor *^^ki, (Hazret-i Mehdî “rahime-hullahü\nteâlâ” islâmiyyeti yayacak.",
+        "clean":"İmam-ı Rabbani 'kaddesallahü teala sirrehül'aziz' iki yüz elli beşinci mektubda buyuruyor ki, Hazret-i Mehdi 'rahime-hullahü teala' islamiyyeti yayacak.\n"
+    },
+
+    {
+        "noisy":"– 145 –              Kıyâmet ve Âhıret F:10",
+        "clean":"Kıyamet ve Ahiret.\n"
+
+    },
+
+    {
+        "noisy":"Kalb denilen aşağı derecedeki latîfenin evliyâlığına kavuşmuş bir Velî, as– 151 –\n\n\n\nla dahâ karîb [yakın] olunca, ahfâ latîfesinde bulunan, fekat o kadar yakın olmıyan Velîden dahâ üstün olur.",
+        "clean":"Kalb denilen aşağı derecedeki latifenin evliyalığına kavuşmuş bir Veli, asla daha karib, yakın, olunca, ahfa latifesinde bulunan, fekat o kadar yakın olmamış Veliden daha üstün olur.\n"
+    },
+
+    {
+        "noisy":"Fekat, hemen tevbe eder ve velîlik derecesinden atılmaz.",
+        "clean":"Fakat, hemen tevbe eder ve velilik derecesinden atılmaz.\n"
+    },
+
+    {
+        "noisy": "İslâm dînini, Kur’ân-ı kerîmin ve hadîs-i – 153 –\n\n\n\nşerîflerin bilgilerini yaymağa uğraşmışlardır.",
+        "clean":"İslamiyyet'i, Kur'an-ı kerim ve hadis-i şeriflerin bilgilerini yaymağa uğraşmışlardır.\n"
+    },
+
+    {
+        "noisy": " İslâm ahkâmına uymıyan şeyler,\n(Kerâmet) olmaz. Bunlara (İstidrâc) denir) buyurdu.",
+        "clean":"İslamiyet'e uymayan şeyler, Keramet olmaz. Bunlara İstidrac denir, buyurdu.\n"
+    },
+
+    {
+        "noisy":"Öyle ya, benim o kadar aylık emeğim, bunca masraf berhava olsun455. Âlemin dedikodusunu da düşünmeyelim.",
+        "clean":"Öyle ya, benim o kadar aylık emeğim, bunca masraf berhava olsun. Alemin dedikodusunu da düşünmeyelim.\n"
+    },
+
+    {
+        "noisy":"Bir tehevvür-i meyûsâne457 ile yerimden fırlayarak\n “Bu emriniz bence kâbil-i icrâ458 değildir.",
+        "clean":"Bir tehevvür-i meyusane ile yerimden fırlayarak\n 'Bu emriniz bence kabil-i icra değildir.\n'"
+    },
+
+    {
+        "noisy":" Benim için bu muzikanın güftesi müthiş fakat \bnağmesi pek latifti.\nBedia:\n503 sühûnet-i rağbet: ilgi sıcaklığı\n504 zemistân-ı felâket: felaket kışı\n505 evza-ı mahsûsa: hususi şekil\n506 bi’t-takyid: kaideye, kuralar bağlı olarak\n507 deklamasyon (declamation): nutuk, hitabet, söz söyleme sanatı\n508 hücûm-ı mutazallimâne: sızlanırcasına hücum\n509 ittisâ-i temevvüc: geniş geniş dalgalanma\n510 bitteferrüs: sezerek\n511 ecvibe-i lâzıme: lâzım gelen cevaplar\n512 tehiyye etmek: hazırlamak\n\n\n\nHüseyin Rahmi GÜRPINAR | 75\n\n“Sizin için bâdı şimdi abes görünen o iki gelin birer mazlûm-ı mâzî513 fakat benim için birer âyîne-i istikbâldir514.",
+        "clean":"Benim için bu muzikanın güftesi müthiş fakat nağmesi pek latifti. \nSizin için badı şimdi abes görünen o iki gelin birer mazlum-ı mazi fakat benim için birer ayine-i istikbaldir.\n"
+    },
+    {
+        "noisy": "Prof.",
+        "clean": "Prof.\n"
+    },
+    {
+        "noisy": "Sayın Yaşar Aydemir’e teşekkürü bir borç bilirim.",
+        "clean": "Sayın Yaşar Aydemir’e teşekkürü bir borç bilirim.\n"
+    },
+    {
+        "noisy": "Ayrıca çalışmamın her aşamasında, göstermiş olduğu sabır ve hoşgörüsünden dolayı eşime teşekkür ederim.",
+        "clean": "Ayrıca çalışmamın her aşamasında, göstermiş olduğu sabır ve hoşgörüsünden dolayı eşime teşekkür ederim.\n"
+    },
+    {
+        "noisy": "Fatîn Davud 1229(1814)’te Drama’da doğmuştur.",
+        "clean": "Fatin Davud 1229’da Drama’da doğmuştur.\n"
+    },
+    {
+        "noisy": "Asıl adı Davud’dur.",
+        "clean": "Asıl adı Davud’dur.\n"
+    },
+    {
+        "noisy": "Fatîn Efendi 1243 (1827/28)’te Mısır’da bulunan amcası Mehmed Hüsrev Bey’in yanına giderek sekiz sene orada kalmış.",
+        "clean": "Fatin Efendi 1243’te Mısır’da bulunan amcası Mehmed Hüsrev Bey’in yanına giderek sekiz sene orada kalmış.\n"
+    },
+    {
+        "noisy": "Girdiği bu yeni ve farklı kültür merkezinin elverişli şartları içinde tahsilini ilerleterek eli kalem tutacak dereceye varan Fatîn, aynı çevrede bulunan şâirlerle tanıştığı gibi ilk şiir denemelerini de burada ortaya koymaya başladı.",
+        "clean": "Girdiği bu yeni ve farklı kültür merkezinin elverişli şartları içinde tahsilini ilerleterek eli kalem tutacak dereceye varan Fatin, aynı çevrede bulunan şairlerle tanıştığı gibi ilk şiir denemelerini de burada ortaya koymaya başladı.\n"
+    },
+    {
+        "noisy": "1252 (1836)’de İstanbul’a gelerek, divan-ı hümâyûn kaleminin mühimme-nüvisligine tayin olunmuş ve kalemin ananesine göre, kendisine Fatîn mahlası verilmiştir.",
+        "clean": "1252’de İstanbul’a gelerek, divan-ı hümayun kaleminin mühimme-nüvisligine tayin olunmuş ve kalemin ananesine göre, kendisine Fatin mahlası verilmiştir.\n"
+    },
+    {
+        "noisy": "Daha sonra sadâret mektubu kalemine giren Fatîn Efendi’nin bilemediğimiz bir sebepten dolayı, bu vazifeden ayrılmak ^' _ 4mecburiyetinde kalması onu çok üzmüş ve bu memûriyeti tekrar elde etmek için muhtelif teşebbüslerde bulunmuş ise de hiç bir netice elde edememiştir.",
+        "clean": "Daha sonra sadaret mektubu kalemine giren Fatin Efendi’nin bilemediğimiz bir sebepten dolayı, bu vazifeden ayrılmak mecburiyetinde kalması onu çok üzmüş ve bu memuriyeti tekrar elde etmek için muhtelif teşebbüslerde bulunmuş ise de hiç bir netice elde edememiştir.\n"
+    },
+    {
+        "noisy": "1264 (1848)’te ticarethane-i âmirede ilamat odasına mukabeleci tayin edilen Fatîn Efendi, Sâlim ve Safâyî tezkirelerine zeyil olarak yazdığı “Hâtimetü’l-Eş‘ar” adlı tezkireye mukâfat olarak rabia rütbesine terfi ettirilmiştir.",
+        "clean": "1264'te ticarethane-i amirede ilamat odasına mukabeleci tayin edilen Fatin Efendi, Salim ve Safayi tezkirelerine zeyil olarak yazdığı Hatimetü'l-Eş'ar adlı tezkireye mukafat olarak rabia rütbesine terfi ettirilmiştir.\n"
+    },
+    {
+        "noisy": "1 — Mattaya göre, Îsâ aleyhisselâmın babası denilen Yûsüf, Ya’kûbun oğludur.",
+        "clean": "Mattaya göre, İsa aleyhisselamın babası denilen Yusuf, Yakubun oğludur.\n"
+    },
+    {
+        "noisy": "Lukaya göre ise, Helinin oğludur.",
+        "clean": "Lukay'a göre ise, Helinin oğludur.\n"
+    },
+    {
+        "noisy": "Bunlar, kendilerine yakın olan bir zâtı, inceleyecek, araştıracak kimselerdendirler.",
+        "clean": "Bunlar, kendilerine yakın olan bir zatı, inceleyecek, araştıracak kimselerdendirler.\n"
+    },
+        
+    {
+        "noisy": "Buradaki zıdlık güneş gibi meydândadır.] 11 — Luka İncîlinin birinci bâbında Zekeriyyâ aleyhisselâma hazret-i Yahyâyı müjdeleyen melek, Yahyânın vasflarını beyân ederken, onyedinci âyetinde, (Sana verilecek oğul, İlyânın hikmet ve fazîleti ile ve Onun rûhunda olarak, babalarının kalblerini oğullara ve âsîleri, sâlihlerin ilmine döndürmek için Benî İsrâîl önünde yürüyecekdir) demişdir.",
+        "clean": "Buradaki zıdlık güneş gibi meydandadır. \nLuka İncilinin birinci babında Zekeriyya aleyhisselama hazret-i Yahyayı müjdeleyen melek, Yahyanın vasflarını beyan ederken, on yedinci ayetinde, Sana verilecek oğul, İlyanın hikmet ve fazileti ile ve Onun ruhunda olarak, babalarının kalblerini oğullara ve asileri, salihlerin ilmine döndürmek için Beni İsrail önünde yürüyecekdir, demişdir.\n"
+    },
+    {
+        "noisy": "Çünki, Yahyânın kendisinin hem İlyâ olması, hem de İlyânın hikmet ve fazîleti ile muttasıf olması mümkin değildir.",
+        "clean": "Çünki, Yahyanın kendisinin hem İlya olması, hem de İlyanın hikmet ve fazileti ile muttasıf olması mümkin değildir.\n"
+    },
+    {
+        "noisy": "Gerçekden size derim ki, İlyânın günlerinde semâ üç yıl altı ay kapanıp, bütün yeryüzünde büyük kıtlık olduğu zemân, İsrâîlde çok dul kadın vardı.",
+        "clean": "Gerçekden size derim ki, İlyanın günlerinde sema üç yıl altı ay kapanıp, bütün yeryüzünde büyük kıtlık olduğu zeman, İsrail'de çok dul kadın vardı.\n"
+    },
+    {
+        "noisy": "Fekat İlyâ onlardan hiç birine gönderilmedi.",
+        "clean": "Fekat İlya onlardan hiç birine gönderilmedi.\n"
+    },
+    {
+        "noisy": "Hâlbuki Luka İncîlinde bildirilen semânın üç yıl altı ay kapalı kalması, Îsâ aleyhisselâm ve İlyâ diye bildirilen vaftizci Yahyâ zemânında olmamışdır.] 13 — Lukanın dokuzuncu bâbının elliüç ve ellidördüncü âyetlerinde, (Îsâ, Orşilime (Kudüs) gelirken, Sâmiriyyeliler Îsâyı kabûl etmediler.",
+        "clean": "Halbuki Luka İncilinde bildirilen semanın üç yıl altı ay kapalı kalması, İsa aleyhisselam ve İlya diye bildirilen vaftizci Yahya zemanında olmamışdır. \nLukanın dokuzuncu babının elliüç ve ellidördüncü ayetlerinde, İsa, Orşilime, Kudüs, gelirken, Samiriyyeliler İsayı kabul etmediler.\n"
+    },
+    {
+        "noisy": "Şâkirdlerinden Ya’kûb ile Yuhannâ bunu görünce Îsâya hitâb ederek, Yâ Rab, ister misin [İlyânın yapdığı gibi] gökden ateş insin ve onları helâk etsin diye emr edelim dediler) demekdedir.",
+        "clean": "Şakirdlerinden Ya’kub ile Yuhanna bunu görünce İsaya hitab ederek, Ya Rab, ister misin [İlyanın yapdığı gibi] gökden ateş insin ve onları helak etsin diye emr edelim dediler) demekdedir.\n"
+    },
+    {
+        "noisy": "Buradan da anlaşılıyor ki, Îsâ aleyhisselâmın havârîleri dahî, İlyânın kendilerinden dahâ önce yaşadığını ve Yahyânın, İlyâ olmadığını biliyorlar idi.",
+        "clean": "Buradan da anlaşılıyor ki, İsa aleyhisselamın havarileri dahi, İlyanın kendilerinden daha önce yaşadığını ve Yahyanın, İlya olmadığını biliyorlar idi.\n"
+    },
+    {
+        "noisy": "1842] de tevellüd etdi.",
+        "clean": "1842'de tevellüd etdi.\n"
+    },
+    {
+        "noisy": "1336 [m.",
+        "clean": "\n"
+    },
+    
+    {
+        "noisy": "Bilgili, \ntemiz bir gençlik yetişdirdi.",
+        "clean": "Bilgili, temiz bir gençlik yetişdirdi.\n"
+    },
+    {
+        "noisy": "Haksızlığın, k ö t ül üğ ün, ahlâksızlığın* kökünü kazıdı.",
+        "clean": "Haksızlığın, kötülüğün, ahlaksızlığın kökünü kazıdı.\n"
+    },
+    {
+        "noisy": "Yıllarca kötülendi.,",
+        "clean": "Yıllarca kötülendi.\n"
+    },
+    
+    {
+        "noisy": "Kâğıthânedeki Hamîdiyye suyu yapıldı.",
+        "clean": "Kağıthanedeki Hamidiyye suyu yapıldı.\n"
+    },
+    {
+        "noisy": "[1322] de dilsiz ve sağırlar mektebi açıldı.",
+        "clean": "1322'de dilsiz ve sağırlar mektebi açıldı.\n"
+    },
+    {
+        "noisy": "[ 1 3 2 2] de Bingâzîye telgraf hattı yapıldı.",
+        "clean": "1322'de Bingaziye telgraf hattı yapıldı.\n"
+    },
+    {
+        "noisy": "[1323] de (İstanbul-Köstence) kablosu   döşendi.",
+        "clean": "1323'de İstanbul-Köstence kablosu döşendi.\n"
+    },
+    {
+        "noisy": "Haydarpâşa istasyonu binâsı yapıldı.",
+        "clean": "Haydarpaşa istasyonu binası yapıldı.\n"
+    },
+    {
+        "noisy": "Silâh baskısı altında seçim yapıldı.",
+        "clean": "Silah baskısı altında seçim yapıldı.\n"
+    },
+    {
+        "noisy": "17 Birinci kânûn [Aralık]da meclis açıldı.",
+        "clean": "Birinci kanun Aralık'da meclis açıldı.\n"
+    },
+    {
+        "noisy": "Bununla, devletin idâresi, ehliyyetsiz, tecribesiz ellere geçdi.",
+        "clean": "Bununla, devletin idaresi, ehliyyetsiz, tecribesiz ellere geçdi.\n"
+    },
+    {
+        "noisy": "5 Ekim 1908 de, Bulgaristan prensliği, krallığını i’lân ederek, Osmânlılardan ayrıldı.",
+        "clean": "5 Ekim 1908'de, Bulgaristan prensliği, krallığını i'lan ederek, Osmanlılardan ayrıldı.\n"
+    },
+    {
+        "noisy": "Yine o târîhde, Avusturya, Bosna-Herseki ilhâk etdi.",
+        "clean": "Yine o tarihde, Avusturya, Bosna-Herseki ilhak etdi.\n"
+    },
+    {
+        "noisy": "Bilhassa Sultan III.\nAhmet Hân ile “asr-ı maârifhasr-ı mülûkâneleri şuarâsını teşvîk u terğîb niyet-i halîsesiyle” şiir yazan Sultan III.\nSelîm Hân’ın şiirlerinden örnekler veriyor.",
+        "clean": "Bilhassa Sultan III. Ahmet Han ile asr-ı maarifhasr-ı mülukaneleri şuarasını teşvik u terğib niyet-i halisesiyle şiir yazan Sultan III. Selim Han'ın şiirlerinden örnekler veriyor.\n"
+    },
+    {
+        "noisy": "Ba’z› ki li se le rin müs li mân lar ta ra f›n dan câ mi’e çev ril di ği doğ - ru dur.",
+        "clean": "Bazı kiliselerin müslümanlar tarafından cami'e çevrildiği doğru durumdur.\n"
+    },
+
+    {
+        "noisy": "Ben de, ‘İhtimal…’ cevabını verdim.",
+        "clean": "Ben de, 'İhtimal', cevabını verdim.\n"
+    },
+    {
+        "noisy": "[Ebû Şâme 665 [m.",
+        "clean": "Ebu Şame.\n"
+    },
+    {
+        "noisy": "237 İKİYÜZOTUZYEDİNCİ MEKTÛB Bu mektûb, molla Muhammed Tâlib-i Beyânegîye yazılmışdır.",
+        "clean": "237. İki yüz otuz yedinci mektubu, molla Muhammed Tâlib-i Beyânegîye yazılmıştır.\n"
+    },
+    {
+        "noisy": "[(Te’ayyün), zuhûr etmek, meydâna çıkmak demekdir.",
+        "clean":"Te'ayyün, zuhur etmek, meydana çıkmak demekdir.\n"
+    },
+    {
+        "noisy": "Makâmın boldu resm-i pây-ı sultân-ı rüsûl hakkâ Nâzım-ı mecmûa-i hünermendî Mehmed Hıfzı Efendi şehriyyü’l-asl olup tekmîl-i hıfz-ı nazm-ı Celîl ve tahsîl-i hatt-ı bî-misl u adîl eyledikten sonra bir müddet sarây-ı hümâyûn-ı mülûkânede bi’l-istihdâm muahharen emtia gümrügü başkitâbeti hizmetiyle çırâğ u bekâm buyrulup bin yüz yetmiş üç sâlinde âzim-i dârü’s-selâm olmuştur.",
+        "clean": "Makamın boldu resm-i pay-ı sultan-ı rüsul hakka Nazım-ı mecmua-i hünermendi Mehmed Hıfzı Efendi şehriyyü'l-asl olup tekmil-i hıfz-ı nazm-ı Celil ve tahsil-i hatt-ı bi-misl u adil eyledikten sonra bir müddet saray-ı hümayun-ı mülukanede bi'l-istihdam muahharen emtia gümrügü başkitabeti hizmetiyle çırağ u bekam buyrulup bin yüz yetmiş üç salinde azim-i darü's-selam olmuştur.\n"
+
+    },
+    {
+        "noisy": "\"5.\"",
+        "clean": "\n"
+    },
+    {
+        "noisy": "Çok zekî idi.",
+        "clean":"Çok zeki idi.\n"
+    },
+    {
+        "noisy": "Hudû' ve huşû' ile kılmazlar.",
+        "clean": "Hudu' ve huşu' ile kılmazlar.\n"
+    },
+    {
+        "noisy": "Bunlara açıkca muhâlif olmıyan bid’atdır, fıskdır, fücûrdur.",
+        "clean": "Bunlara açıkca muhalif olmıyan bid'atdır, fıskdır, fucurdur.\n"
+    },
+    {
+        "noisy": "1615] de İstanbulda yazmışdır.",
+        "clean": "1615'de İstanbul'da yazmıştır.\n"
+    },
+    {
+        "noisy": "Birkaç gün içinde size uğrar ve sorduklarınıza cevâb veririm) dedi ve acele ile yanımdan firâr etdi.",
+        "clean": "Birkaç gün içinde size uğrar ve sorduklarınıza cevab veririm, dedi ve acele ile yanımdan firar etti.\n"
+    },
+
+    {
+        "noisy": "Ha va, top rak, su, ›s›, ›ş›k, elekt - rik ve mik rob lar, bi le şik cism le rin parç a lan ma la r› na ve yâ cism le rin bir leş me le ri ne se beb olu yor lar.",
+        "clean": "Hava, toprak, su, ısı, ışık, elektrik ve mikroblar, bileşik cismlerin parçalanmalarına veya cismlerin birleşmelerine sebeb oluyorlar.\n"
+    },
+    {
+        "noisy": "Oğlu Âlemgîr, 1118 yılına kadar sultân olup, pek dindâr, mubârek idi.",
+        "clean": "Oğlu Alemgir, 1118 yılına kadar sultan olup, pek dindar, mubarek idi.\n"
+    },
+    {
+        "noisy": "Onu, vücûdden başka olarak aramak lâzımdır.",
+        "clean": "Onu, vucudundan başka olarak aramak lazımdır.\n"
+    },
+    {
+        "noisy": "Bunların dar olan halvetlerine simâ’ ve nağme yanaşamaz.",
+        "clean": "Bunların dar olan halvetlerine sima' ve nağme yanaşamaz."
+    },
+    {
+        "noisy": "Evet, böylelerinin başarıları, insanlık için sevindirici ise de, müslimânlar için utandırıcıdır.",
+        "clean": "Evet, böylelerinin başarıları, insanlık için sevindirici ise de, müslimanlar için utandırıcıdır.\n"
+    },
+    {
+        "noisy": "Allahü teâlâ, müslimânlara böyle emr ediyor.",
+        "clean": "Allah teala, müslimanlara böyle emr ediyor.\n"
+    },
+
+    {
+        "noisy": "Bunların hepsi, müslümanlık için bir kötülüktür.",
+        "clean": "Bunların hepsi, müslümanlık için bir kötülüktür.\n"
+    },
+
+    {
+        "noisy": "1972] senesinde, Pâkistânda, Karaşide (Edeb Menzil Saîd Kompani) de gulâm Mustafâ hân tarafından, üç cildi iki kitâb hâlinde ve hâşiyesinde açıklamalar olarak, gâyet okunaklı ve nefîs basılmışdır.",
+        "clean": "1972 senesinde, Pakistan'da, Karaşi'de, Edeb Menzil Said Kompani'de, gulam Mustafa han tarafından, üç cildi iki kitab halinde ve haşiyesinde açıklamalar olarak, gayet okunaklı ve nefis basılmışdır.\n"
+    },
+
+    {
+        "noisy": "(Sünen-i Dârekütnî,[1]cilt dört, sahîfe 198).",
+        "clean": "Sünen-i Darekütni, cilt dört, sahife 198.\n"
+    },
+
+    {
+        "noisy": "(Ey yüce Rabbim!",
+        "clean": "Ey yüce Rabbim!\n"
+    },
+
+    {
+        "noisy": "İyi biliniz ki, bid''at sâhibi ile konuşmak, kâfirle arkadaşlık etmekten, katkat dahâ fenâdır.",
+        "clean": "İyi biliniz ki, bid'at sahibi ile konuşmak, kafirle arkadaşlık etmekten, katkat daha fenadır.\n"
+    },
+
+    {
+        "noisy": "Abdülkâdir-i Geylânî hazretlerinden feyz aldı.",
+        "clean": "Abdülkadir-i Geylani hazretlerinden feyz aldı.\n"
+    },
+
+    {
+        "noisy": "2 — HIRİSTİYANLIK DÎNİ:",
+        "clean": "HIRİSTİYANLIK DİNİ:\n"
+    },
+
+    {
+        "noisy": "Medeniyyet3 demek, yalnız ilm ve fen demek değildir.",
+        "clean": "Medeniyyet demek, yalnız ilm ve fen demek değildir.\n"
+    },
+
+    {
+        "noisy": "18, 21, 79, 223.",
+        "clean": "\n"
+    },
+
+    {
+        "noisy": "Eski yunan felsefecileri buna (inâyet-i ezeliyye) dedi.",
+        "clean": "Eski Yunan felsefecileri buna inayet-i ezeliyye dedi.\n"
+    },
+
+    {
+        "noisy": "Meselâ, dâirenin merkezi[],çevresinden en uzak olan noktadır.",
+        "clean": "Mesela, dairenin merkezi, çevresinden en uzak olan noktadır.\n"
+    },
+
+    {
+        "noisy": "Her  s e n e, kendisine on milyon dirhem gümüş, ma’âş verirdi.",
+        "clean": "Her sene, kendisine on milyon dirhem gümüş, ma'aş verirdi.\n"
+
+    },
+
+    {
+        "noisy": "Halîfe Ebû Bekre ve Ömere de kâ tib lik yapdı.",
+        "clean": "Halife Ebu Bekre ve Ömere de katiblik yapdı.\n"
+    },
+
+    {
+        "noisy": "nisyan tozuna bulaşmış 517 derd-i iştiyâk:",
+        "clean": "Nisyan tozuna bulaşmış derd-i iştiyak:\n"
+    },
+
+    {
+        "noisy": "Önce inanmış, ?>îmân etmiş olduğunu unutur.",
+        "clean": "Önce inanmış, iman etmiş olduğunu unutur.\n"
+    },
+
+    {
+        "noisy": "AAAzîmdir.",
+        "clean": "Azimdir.\n"
+    },
+
+    {
+        "noisy": "Uzn boy lu, beyâ z yüz lü, güzl, yakışıklı v e heybetli idi.",
+        "clean":"Uzun boylu, beyaz yüzlü, güzel, yakışıklı ve heybetli idi.\n"
+    },
+
+    {
+        "noisy": "güc üm yok med   hine, yaratıldk hep, senin hurmetin0e.",
+        "clean": "Gücüm yok medhine, yaratıldık hep, senin hurmetine.\n"
+    },
+
+    {
+        "noisy": "Melekler cin i l e ve cin insanlar ile karışır.",
+        "clean": "Melekler cin ile ve cin insanlar ile karışır.\n"
+    },
+
+    {
+        "noisy": "Basrada vefât etdi “radıyallahü teâlâ anh .",
+        "clean": "Basrada vefat etti radıyallahü teala anh.\n"
+    },
+
+    {
+        "noisy": "Bu sözlerin asl İncîlde bulunmadığı, Allah kelâmı olmadığı meydândad ır.",
+        "clean": "Bu sözlerin asl İncil'de bulunmadığı, Allah kelamı olmadığı meydandadır.\n"
+    },
+
+    {
+        "noisy": "Kâğıthane halkına en büyük [ 1] seyir biz oluruz.",
+        "clean": "Kağıthane halkına en büyük seyir biz oluruz.\n"
+
+    },
+    {
+        "noisy":"?e1kd kwedx kkkaq ?<.. das.",
+        "clean": "\n"
+    },
+    {
+        "noisy": "63.",
+        "clean": "\n"
+    },
+    {
+        "noisy": "ci sahifesinde diyor ki, Bekara sûresi, yirmidokuzuncu âyetinde meâlen, (Allahü teâlâ yeryüzündeki herşeyi sizin için yaratdı) buyuruldu.",
+        "clean": "sahifesinde diyor ki, Bekara suresi, yirmi dokuzuncu ayetinde mealen, Allahü teala yeryüzündeki herşeyi sizin için yaratdı, buyuruldu.\n"
+    },
+    {
+        "noisy": "Avucumu altın-la doldurdu.",
+        "clean": "Avucumu altınla doldurdu.\n"
+    },
+    {
+        "noisy": "1183] de Mısrda vefât etdi.",
+        "clean": "1183'de Mısır'da vefat etti.\n"
+    },
+    {
+        "noisy": "8 DEVIS WARRINGTON (Avusturyalı) Korkunç bir kışdan sonra, ilkbehârın tatlı ve ılık eli, soğuk toprak tabakasına nasıl te’sîr ederse, islâmiyyet de bana öyle te’sîr etdi.",
+        "clean": "DEVIS WARRINGTON (Avusturyalı) korkunç bir kışdan sonra, ilkbeharın tatlı ve ılık eli, soğuk toprak tabakasına nasıl te'sir ederse, islamiyyet de bana öyle te'sir etdi.\n"
+    },
+    {
+        "noisy": "O hâl, şimdi de öyledir, ; yok olmamışdır.",
+        "clean": "O hal, şimdi de öyledir, yok olmamışdır.\n"
+    },
+    {
+        "noisy": "1183] de Mısrda vefât etdi.",
+        "clean": "1183'de Mısr'da vefat etdi.\n"
+    },
+    {
+        "noisy": "Yaratıcıda hiç deği32aşiklik olmaz.",
+        "clean": "Yaratıcıda hiç değişiklik olmaz.\n"
+    },
+    {
+        "noisy": "Abdüllah ibni Zübeyrin hilâfeti zemânında ortaya çıkan Muhtâr Sekafî de, bu deccâllardan biri idi.",
+        "clean": "Abdullah ibn Zübeyrin hilafeti zemanında ortaya çıkan Muhtar Sekafi de, bu deccalardan biri idi.\n"
+    },
+    
+    {
+        "noisy": "Buna, (Tecellî-i zâtî) ve (Şühûd-i zâtî)de demişlerdir.",
+        "clean": "Buna, Tecellî-i zati ve Şühud-i zati'de demişlerdir.\n"
+    },
+    {
+        "noisy": "1* 1- Bunlarda bildirilenleri anlamak ve yapmak, ulemâ-i râsihîne |mahsûsdur.",
+        "clean": "Bunlarda bildirilenleri anlamak ve yapmak, ulema-i rasihine mahsusdur.\n"
+    },
+    {
+        "noisy": "Burada bulamazsa, Resûlullahdan \"sallallahü teâlâ aleyhi ve sellem\" işitdiğine göre cevâb verirdi.",
+        "clean": "Burada bulamazsa, Resulullahdan \"sallallahü teala aleyhi ve sellem\" işitdiğine göre cevab verirdi.\n"
+    },
+    {
+        "noisy": "Doğru yolda olanlara ve Muhammed aleyhisselâma uyanlara, selâm olsun!",
+        "clean": "Doğru yolda olanlara ve Muhammed aleyhisselama uyanlara, selam olsun!\n"
+    },
+    {
+        "noisy": "Size karşı olan düşüncelerimin, بفتح العين والراء ، جمع أعرب وعروب ,nasıl olduğunu bilmenizi istiyorum.",
+        "clean": "Size karşı olan düşüncelerimin nasıl olduğunu bilmenizi istiyorum.\n"
+    },
+    {
+        "noisy": "Eshâb-ı k irâm da3125Q ndır.",
+        "clean": "Eshab-ı kiramdandır.\n"
+    },
+    {
+        "noisy": "Buna:, (Tecell î-i zâtî) ve (Şühûd-i zâtî)de demişlerdi r.",
+        "clean": "Buna, Tecellİ-i zati ve Şühud-i zati'de demişlerdir.\n"
+    },
+    {
+        "noisy":"Buna bin dirhem [üç kilo 365 gram] gümüş verdi.",
+        "clean": "Buna bin dirhem, 3 kilo 365 gram, gümüş verdi.\n"
+    },
+    {
+        "noisy": "80 Ey dil bu kadar nâle vü feryâd nedendir İ tmek ili kendiye mu‘tâd nedendir Bir dil biline hâl -i dili söyler idim âh Bilseydi dil-i zârımı nâ-şâd nedendir Bin kere kırar şîşe-i kalbim o perîzâd Gayri anı âdem deyu ta‘dâd nedendir Perçem-i tîr aratırdı bu baht-ı siyâha Hattınla yine zulm-ı nev îcâd nedendir Gün görmedi devrinde o mâhın dahi Sâkıb İster yine dil devrini müzdâd nedendir Nâzım-ı mûmâ-ileyh Enderûnî Mustafa Sâkıb Efendi cânib-i Anadolu’da kâin Engürü nâm kasabada kadem-nihâde-i s...",
+        "clean": "80 Ey dil bu kadar nale vü feryad nedendir \nİtmek ili kendiye mu'tad nedendir \nBir dil biline hal-i dil söyler idim ah \nBilseydi dil-i zarımı na-şad nedendir \nBin kere kırar şişe-i kalbim o perizad Gayri anı adem deyu ta'dad nedendir \nPerçem-i tir aratirdi bu baht-ı siyaha \nHaattınla yine zulm-ı nev icad nedendir \nGün görmedi devrinde o mahın dahi Sakıb \nİster yine dil devrini müzdad nedendir \nNazım-ı muma-ileyh Enderuni Mustafa Sakib Efendi canib-i Anadolu'da kain Engürü nam kasabada kadem-nihade-i.\n"
+    },
+
+    {
+        "noisy": "Fenâya kavuşmadıkça, hiçbirşey ele geçemez.",
+        "clean": "Fenaya kavuşmadıkça, hiçbir şey ele geçemez.\n"
+    },
+    {
+        "noisy": "Bunların hepsi, müslümanlık için biĞr kötülüktür.",
+        "clean": "Bunların hepsi, müslümanlık için bir kötülüktür.\n"
+    },
+    {
+        "noisy": "Bunların hepsi, müslüman lık i ç i n b i r kötü lük tür.",
+        "clean": "Bunların hepsi, müslümanlık için bir kötülüktür.\n"
+    },
+    {
+        "noisy": "Bunların hepsi, müslümanlık için biĞr kötülüktür.",
+        "clean": "Bunların hepsi, müslümanlık için bir kötülüktür.\n"
+    },
+    {
+        "noisy": "Bunların hepsi, müslümanlık için bir kötülüktür.",
+        "clean": "Bunların hepsi, müslümanlık için bir kötülüktür.\n"
+    },
+    {
+        "noisy": "(Sağ el ile yi!)buyurdu.",
+        "clean": "Sağ el ile yi, buyurdu.\n"
+    },
+    {
+        "noisy": "[2] Fransız şâiri Lamartin, 1286 [m.",
+        "clean": "Fransız şairi Lamartin, 1286.\n"
+    },
+    {
+        "noisy": "Ne yazık ki, [1327] de tahtdan indirilince, bütün bu ilerlemeler durdu ve memleket kana boyandı.",
+        "clean": "Ne yazık ki, 1327'de tahtdan indirilince, bütün bu ilerlemeler durdu ve memleket kana boyandı.\n"
+    },
+    {
+        "noisy": "(Sağ el ile ye!)buyurdu.",
+        "clean": "Sağ el ile ye, buyurdu.\n"
+    },
+    {
+        "noisy": "[2] Fransız şâir i Lamartin, 1 2 8 6 [m.",
+        "clean": "Fransız şairi Lamartin, 1286.\n"
+    },
+    {
+        "noisy": "Halâl demesi için zorlanamaz.",
+        "clean": "Halal demesi için zorlanamaz.\n"
+    },
+    {
+        "noisy": "Tesavvuf büyüklerini BUNUN için seviyoruz.",
+        "clean": "Tesavvuf büyüklerini bunun için seviyoruz.\n"
+    },
+    {
+        "noisy": "Fekat Îsâ ona cevâb vermedi.",
+        "clean": "Fekat Isâ ona cevab vermedi.\n"
+    },
+    {
+        "noisy": "Hattâ, Ebû Lehebin kızı olan Dürre i ç i n d e söylendi.",
+        "clean": "Hatta, Ebu Lehebin kızı olan Dürre için de söylendi.\n"
+    },
+    {
+        "noisy": "Ne yazık ki, [1327] de tahtdan indirili n c  e, bütün bu ilerlemeler durdu ve *= * 34 +memleket kana boyandı.",
+        "clean": "Ne yazık ki, 1327'de tahtdan indirilince, bütün bu ilerlemeler durdu ve memleket kana boyandı.\n"
+    },
+    {
+        "noisy": "Tsvvuf büyüklerini bunun için seviyoruz-.",
+        "clean": "Tesavvuf büyüklerini bunun için seviyoruz.\n"
+    },
+    {
+        "noisy": "Teavvuf büyüklerini bunun için sev i yoruz.",
+        "clean": "Tesavvuf büyüklerini bunun için seviyoruz.\n"
+    },
+    {
+        "noisy": "Tesavvuf büyüklerini bunun için seviyoruz.",
+        "clean": "Tesavvuf büyüklerini bunun için seviyoruz.\n"
+    },
+    {
+        "noisy": "F.\nC.",
+        "clean": "\n"
+    },
+    {
+        "noisy":"(Matta İncîlinde şöyle yazılıdır:",
+        "clean":"Matta İncilinde şöyle yazılıdır:\n"
+    },
+    {
+        "noisy":"(...\"",
+        "clean":"\n"
+    },
+    {
+        "noisy":"(Matta İnciinde şöyle yazılıdır:",
+        "clean":"Matta İncilinde şöyle yazılıdır:\n"
+    },
+    {
+        "noisy":"add..\"",
+        "clean":"\n"
+    },
+    {
+        "noisy":"(Matta ncîlinde şöyle yazılıdır:",
+        "clean":"Matta İncilinde şöyle yazılıdır:\n"
+    },
+    {
+        "noisy":"\"Âmîn.\"",
+        "clean":"Amin.\n"
+    },
+    {
+        "noisy":"hani Kârun, hani Hâmân?",
+        "clean":"Hani Karun, hani Haman?\n"
+    },
+    {
+        "noisy":"\"Âm n.\"",
+        "clean":"Amin.\n"
+    },
+    {
+        "noisy": "nisyan tozuna bulaşmış 517 derd-i iştiyâk.",
+        "clean": "Nisyan tozuna bulaşmış derd-i iştiyak.\n"
+    },
+    {
+        "noisy": "önce inanmıS, îmân etmiş olduğunu unutur.",
+        "clean": "Önce inanmış, iman etmiş olduğunu unutur.\n"
+    },
+    {
+        "noisy": "Azîmdir.",
+        "clean": "Azimdir.\n"
+    },
+    {
+        "noisy": "(Muvâcehe-i se'âdet) penceresi önünde duralım.",
+        "clean": "Muvâcehe-i se'âdet penceresi önünde duralım.\n"
+    },
+    {
+        "noisy": "Kıymetli kardşim!",
+        "clean": "Kıymetli kardeşim!\n"
+    },
+    {
+        "noisy": "Hâce Behâeddîn-i Buhârî “kuddise sirruh” hazretleri buyurdu ki, (Yolumuz, yolların en kısasıdır).",
+        "clean": "Hâce Behâeddin-i Buhari “kuddise sirruh” hazretleri buyurdu ki, Yolumuz, yolların en kısasıdır.\n"
+    },
+    {
+        "noisy": "Orada şehîd oldu.",
+        "clean": "Orada şehid oldu.\n"
+    },
+    {
+        "noisy": "1883] senesinde basılan (Mir'ât-ül-Haremeyn) kitâbının birinci cildi şöyle anlatmakdadır:",
+        "clean": "1883'de basılan Mir'at-ül-Haremeyn kitabının birinci cildi şöyle anlatmakdadır:\n"
+    },
+    
+    {
+        "noisy": "Peygamberimiz \"aleyhisselâm\" Kur'ân-ı kerîmi tilâvet buyurduğu zemân, ümmeti zan eder ki, hiç işitmemişlerdir.",
+        "clean": "Peygamberimiz \"aleyhisselam\" Kur'an-ı kerimi tilavet buyurduğu zeman, ümmeti zan eder ki, hiç işitmemişlerdir.\n"
+    },
+    {
+        "noisy": "Eski mürşidlerin kabrlerini ziyâret edince, onlardan da feyz alır.",
+        "clean": "Eski mürşidlerin kabrlerini ziyaret edince, onlardan da feyz alır.\n"
+    },
+    {
+        "noisy": "Bir gün Velî Arslan Dımışkînin kabrini ziyârete gidiyordum.",
+        "clean": "Bir gün Velî Arslan Dimiskînin kabrini ziyaret ediyordum.\n"
+    },
+    {
+        "noisy": "1565] de KAâhirede vefâtt etdi.",
+        "clean": "1565'de Kâhirede vefat etdi.\n"
+    },
+    {
+        "noisy": "1565 ] de Khirede veft etti.",
+        "clean": "1565'de Kahirede vefat etti.\n"
+    },
+    {
+        "noisy": "Bu işin çiarkinliğini iyi anla malıdır.",
+        "clean": "Bu işin çirkinliğini iyi anlamalıdır.\n"
+    },
+    {
+        "noisy": "Beni iğfal yoluna giderse aldan mamalı.",
+        "clean": "Beni iğfal yoluna giderse aldanmamalı.\n"
+    },
+    {
+        "noisy": "(Mu’tezile), (İmâmiyye), (Zeydiyye), ve (İsmâîliyye)gibi sapık fırkalar da böyledir.",
+        "clean": "Mu'tezile, İmamiyye, Zeydiyye, ve İsmailiyye gibi sapık fırkalar da böyledir.\n"
+    },
+    {
+        "noisy": "Sonra ölür AWAWAW.",
+        "clean": "Sonra ölür.\n"
+    },
+    {
+        "noisy": "Fekat, geri döndükden sonra, o yakın örtüldü.",
+        "clean": "Fekat, geri döndükden sonra, o yakın örtüldü.\n"
+    },
+    {
+        "noisy": "Kâfirler de de keserken putun ismini ismini söyliyerek kesiyorlar.",
+        "clean": "Kafirler de keserken putun ismini söyliyerek kesiyorlar.\n"
+    },
+    {
+        "noisy": "Fekat, şu dört husûs hepsinde müşterek idi:",
+        "clean": "Fekat, şu dört husus hepsinde müterek idi:\n"
+    },
+    {
+        "noisy": "Her kusûrdan, sıkıntıdan körusun!",
+        "clean": "Her kusurdan, sıkıntıdan korusun!\n"
+    },
+    {
+        "noisy": "FAkat, geri döndükden sonra, ö yakın örtüldü.",
+        "clean": "Fakat, geri döndükden sonra, o yakın örtüldü.\n"
+    },
+    
+    {
+        "noisy": "cayır cayır 209 hitâm-ı kırâat:",
+        "clean": "Cayır cayır hitam-ı kıraat:\n"
+    },
+    {
+        "noisy": "Cevâb:",
+        "clean": "\n"
+    },
+    {
+        "noisy": "Allahın Ktabına ve Peygamberin sünnetine var kuvvetinizle s rılınız!",
+        "clean": "Allahın Kitabına ve Peygamberin sünnetine var kuvvetinizle sarılınız!\n"
+    },
+    {
+        "noisy": "Yavaş yavaş İİncîl gözümden düşmeğe başladı.",
+        "clean": "Yavaş yavaş İncil gözümden düşmeğe başladı.\n"
+    },
+    {
+        "noisy": "40 Yılda 40 Roman:",
+        "clean": "40 Yılda 40 Roman:\n"
+    },
+    {
+        "noisy": "Çünki, Peygamber olan ve îmân sâhibi olan rûhdur.",
+        "clean": "Çünki, Peygamber olan ve iman sahibi olan ruhdur.\n"
+    },
+    {
+        "noisy": "Hindistânda böylece yıkılmış, şehr harâbeleri çok görülmekdedir.",
+        "clean": "Hindistanda böylece yıkılmış, şehir harabeleri çok görülmektedir.\n"
+    },
+    {
+        "noisy": "Küfrün sebebi bilinmese dahî, hergün bir kerre, (Yâ Rabbî!",
+        "clean": "Küfrün sebebi bilinmese dahi, hergün bir kerre, Ya Rabbi!\n"
+    },
+    {
+        "noisy": "İslâmın bayrağı ve dînin direği olan nemâzda Resûlullahın önümüze geçirdiğini başımıza halîfe yapmağa râzı olup, Ebû Bekri halîfe seçdik).",
+        "clean": "İslamın bayrağı ve dinin direği olan nemazda Resulullahın önümüze geçirdiğini başımıza halife yapmağa razı olup, Ebu Bekri halife seçdik.\n"
+    },
+    {
+        "noisy": "Oruc, vücûddaki karbonhidrat, protein ve bilhassa yağ depolarının harekete geçirilmesini sağlar.",
+        "clean": "Oruc, vücuddaki karbonhidrat, protein ve bilhassa yağ depolarının harekete geçirilmesini sağlar.\n"
+    },
+    {
+        "noisy":" A SDPW K A RMC-*< İLK!",
+        "clean":"\n"
+    },
+    {
+        "noisy":"Din adamları, acıdıklarından, buyle söylerler.",
+        "clean":"Din adamları, acıdıklarından, böyle söylerler.\n"
+    },
+    {
+        "noisy":"Allahü teâlâya hamd olsun.",
+        "clean":"Allahü tealaya hamd olsun.\n"
+    },
+    {
+        "noisy":"Bunlar, Hanefî, Şâfi’î, Mâlikî ve Hanbelî mezhebleridir.",
+        "clean":"Bunlar, Hanefi, Şafi'i, Maliki ve Hanbeli mezhebleridir.\n"
+    },
+    {
+        "noisy": "[3] Muhammed Vâkıdî 207 [m.",
+        "clean": "Muhammed Vakıdi.\n"
+    },
+    {
+        "noisy":"Bugün, bütün ilm ve fen adam lar ı, devlet reîsleri hep Allahü teâlânın varlığına inanmakdadırlar.",
+        "clean":"Bugün, bütün ilm ve fen adamları, devlet reîsleri hep Allahü tealanın varlığına inanmakdadırlar.\n"
+    },
+    {
+        "noisy":"sahîfesin'de diyor ki:",
+        "clean":"sahifesinde diyor ki:\n"
+    },
+    {
+        "noisy":"a.",
+        "clean":"\n"
+    },
+    {
+        "noisy":"b.",
+        "clean":"\n"
+    },
+    {
+        "noisy":"1.",
+        "clean":"\n"
+    },
+    {
+        "noisy":"13 —",
+        "clean":"13 —\n"
+    },
+    {
+        "noisy":"Deveye, ata, katıra ve eşeğe biner, ba’zan başkasını da arkasına oturturdu.",
+        "clean":"Deveye, ata, katıra ve eşeğe biner, ba'zan başkasını da arkasına oturturdu.\n"
+    },
+    {
+        "noisy":"Diğer bir hadîs-i şerîfde, (Kişinin her yeri mahv olup çürür.",
+        "clean":"Diğer bir hadis-i şerifde, kişinin her yeri mahv olup çürür.\n"
+    },
+    {
+        "noisy":"Selâm verince işitir, cevâb verirler) buyurdu.",
+        "clean":"Selam verince işitir, cevap verirler, buyurdu.\n"
+    },
+    {
+        "noisy":"1499] de vefât etdi “rahime-hullahü teâlâ”.",
+        "clean":"1499'de vefat etti \"rahime-hullahü teala\".\n"
+    },
+    {
+        "noisy": "Oğlu Âlemgîr, 1118 yılına kadar sultân olup, pek dindâr, mubârek idi.",
+        "clean": "Oğlu Alemgir, 1118 yılına kadar sultan olup, pek dindar, mubarek idi.\n"
+    },
+    {
+        "noisy":"Onu, vücûdden başka olarak aramak lâzımdır.",
+        "clean":"Onu, vücudden başka olarak aramak lazımdır.\n"
+    },
+    {
+        "noisy":"“Meleğim!..",
+        "clean":"Meleğim!\n"
+    },
+    {
+        "noisy": "Ha va, top* k rak, su, 1s›, 1ş1k, elekt - rik ve mik rob lar, bi le şik cism le rin parç a lan ma la r› na se beb o lur. .",
+        "clean": "Hava, toprak, su, ısı, ışık, elektrik ve mikroblar, bileşik cismlerin parçalanmalarına sebeb olur.\n"
+    },
+    {
+        "noisy":"[ K a z a ] M a d d e :",
+        "clean":"Kaza madde.\n"
+    },
+    
+    {
+        "noisy": "!lk önce, evvela 379 mücazat:humma humma humma humma humma humma",
+        "clean": "İlk önce, evvela mücazat.\n"
+    },
+    {
+        "noisy":"[…] Bana pek alaycı gelen bir sesle:\n— Oğlum, senin ağzın daha süt kokuyor.",
+        "clean":"Bana pek alaycı gelen bir sesle:\n — Oğlum, senin ağzın daha süt kokuyor.\n"
+    },
+    {
+        "noisy":"Söyle… Hüseyin Rahmi GÜRPINAR | 9 […] Koca Ahmet Mithat Efendi’nin bu suçlaması karşısında küçüldüm, büzüldüm, hiçbir söz bulamadım.",
+        "clean":"Söyle. \nKoca Ahmet Mithat Efendi’nin bu suçlaması karşısında küçüldüm, büzüldüm, hiçbir söz bulamadım.\n"
+    },
+    {
+        "noisy":"— Ağlama… Ağlama, inandım… dedi.”2 Böylece Hüseyin Rahmi, edebiyat dünyasına Ahmet Mithat Efendi’nin desteğiyle girmiş olur.",
+        "clean":"— Ağlama. Ağlama, inandım.\", dedi. \nBöylece Hüseyin Rahmi, edebiyat dünyasına Ahmet Mithat Efendi’nin desteğiyle girmiş olur.\n"
+    },
+    {
+        "noisy":"Latîfe;\nMûmâ-ileyhin bazı eş‘ârı sâlifü’t-terceme Sünbülzâde Vehbî Efendi’ye azv olunarak kendisine irâe olundukda mütercim-i mûmâ-ileyhin yek çeşmligine işâret ve kendüye isnâd olunan gazel anın zâde-i tab‘ı olduğuna alâmet olmak üzre o mâkûle gazelin makta beytinde vâki Vehbî lafzında olan ha’nın bir gözüne cüz’î mürekkeb vaz‘ıyla mûmâileyhin kendi gibi mahlası dahi görleyüp tefrîk-i zât eyledigi bazı zürefâ-yı asrdan sâmia-res-i âcizî olmuştur.",
+        "clean":"Latife. \nMuma-ileyhin bazı eş'arı salifü't-terceme Sünbülzade Vehbi Efendi’ye azv olunarak kendisine irade olundukda mütercim-i muma-ileyhin yek çeşmligine işaret ve kendüne isnad olunan gazel anın zade-i tab'ı olduğuna alamet olmak üzre o makule gazelin makta beytinde vaki Vehbi lafzında olan ha'nın bir gözüne cüz'i mürekkeb vaz'ıyla mumaileyhin kendi gibi mahlası dahi görleyüp tefrik-i zat eylediği bazı zürefa-yı asrdan samia-res-i acizi olmuştur.\n"
+    },
+    {
+        "noisy":"389 [m.",
+        "clean":"\n"
+    },
+    {
+        "noisy":"________________ Hindistânın büyük âlimlerinden veliy-yi kâmil Muhammed Ma’sûm Fârûkî müceddidî, 29.cu mektûb arasında buyuruyor ki:\nAllahü teâlâ, Mûsâ aleyhisselâma sordu, (Yâ Mûsâ!\nBenim için ne amel yapdın?).",
+        "clean":"Hindistanın büyük alimlerinden veliy-yi kamil Muhammed Ma'sum Faruki müceddidi, 29.cu mektub arasında buyuruyor ki: \nAllahü teala, Musa aleyhisselama sordu, \"Ya Musa! \nBenim için ne amel yapdın?).\n"
+    },
+    {
+        "noisy":"Yâ Rabbî! Senin için nemâz kıldım ve oruc tutdum ve zekât verdim ve ismini çok zikr etdim deyince, Allahü teâlâ, (Nemâz kılmak, senin için burhândır. Oruc, seni Cehennemden koruyan kalkandır. Zekât, mahşer günü, herkes sıcakdan yanarken, sana gölge yapacakdır. Zikr de, o gün, karanlıkda, sana nûr olacakdır. Benim için ne yapdın?) buyurdu.",
+        "clean":"Ya Rabbi! \nSenin için nemaz kıldım ve oruc tutdum ve zekat verdim ve ismini çok zikr etdim deyince, Allahü teala, \"Nemaz kılmak, senin için burhandır. Oruc, seni cehennemden koruyan kalkandır. Zekat, mahşer günü, herkes sıcakdan yanarken, sana gölge yapacakdır. Zikr de, o gün, karanlıkda, sana nur olacakdır. Benim için ne yapdın?\",buyurdu.\n"
+    },
+    {
+        "noisy":"Mûsâ aleyhisselâm, Yâ Rabbî! Senin için olan amel nedir dedi.",
+        "clean":"Musa aleyhisselama, \"Ya Rabbi! Senin için olan amel nedir?\", dedi.\n"
+    },
+    {
+        "noisy":"Allahü teâlâ, (Sevdiğim kulumu, benim için sevdin mi ve düşmanımı düşman bildin mi?) buyurdu.",
+        "clean":"Allahü teala, \"Sevdiğim kulumu, benim için sevdin mi ve düşmanımı düşman bildin mi?\", buyurdu.\n"
+    },
+    {
+        "noisy":"Mûsâ aleyhisselâm, Allahü teâlânın sevdiği amelin, Onun dostlarını sevmek ve düşmanlarını sevmemek oldukunu anladı.",
+        "clean":"Musa aleyhisselama, Allahü teala'nın sevdiği amelin, Onun dostlarını sevmek ve düşmanlarını sevmemek olduğunu anladı.\n"
+    },
+    {
+        "noisy":"Görülüyor ki, sevgili nin sevdiklerini sevmek ve düşmanlarına düşman olmak, sevginin alâmeti dir.",
+        "clean":"Görülüyor ki, sevgilinin sevdiklerini sevmek ve düşmanlarına düşman olmak, sevginin alametidir.\n"
+    },
+    {
+        "noisy":"Bu dost luk ve düşman lık, seven kimsenin elinde değildir. Kendiliğinden hâsıl ol ur. Hâlbuki, başka ibâdetleri yapmak için, arzû ve niyyet etmek lâzımdır.",
+        "clean":"Bu dostluk ve düşmanlık, seven kimsenin elinde değildir. \nKendiliğinden hasıl olur. \nHalbuki, başka ibadetleri yapmak için, arzu ve niyyet etmek lazımdır.\n"
+    },
+    {
+        "noisy":"Dostun sevdiği kimseler, insâna güzel görünür. Düşmanlar da, çirkin görünür. Dünyâdaki sevgilerin de, böyle olduğunu herkes bilir.",
+        "clean":"Dostun sevdiği kimseler, insanlara güzel görünür. \nDüşmanlar da, çirkin görünür. \nDünyadaki sevgilerin de, böyle olduğunu herkes bilir.\n"
+    },
+    {
+        "noisy":"Bir kimse, birisi ni seviyor um deyin ce, o-nun düşmanlarını düşman bilmedikçe, buna inanılmaz.",
+        "clean":"Bir kimse, birisini seviyorum deyince, onun düşmanlarını düşman bilmedikçe, buna inanılmaz.\n"
+    },
+    {
+        "noisy":"Münâfık - YAYIN EVİ - ISTANBUL 2024 - olduğu anlaşılır.",
+        "clean":"Münafık olduğu anlaşılır.\n"
+    },
+    
+    {
+        "noisy":"[Cirum, Ing.",
+        "clean":"\n"
+    },
+    {
+        "noisy":"382[m. de Romaya gitdi.",
+        "clean":"382'de Romaya gitdi.\n"
+    },
+    {
+        "noisy":"Papanın seekreeteeri oldu u.",
+        "clean":"Papanın sekreteri oldu.\n"
+    },
+    {
+        "noisy":"Kitâb-ı mukaddes Latinceye terceme etti.",
+        "clean":"Kitab-ı mukaddes Latinceye terceme etti.\n"
+    },
+    {
+        "noisy":"30 Eylülde yortusu yapıldı.",
+        "clean":"30 Eylül'de yortusu yapıldı.\n"
+    },
+    {
+        "noisy":"Yapdığı terceme kilisenin resmî met-ni olmuştur.",
+        "clean":"Yapdığı terceme kilisenin resmi metni olmuştur.\n"
+    },
+    {
+        "noisy":"390 senesinde Laodicea ismli bir meclis dahâ toplandı.",
+        "clean":"390 senesinde Laodicea ismli bir meclis daha toplandı.\n"
+    },
+    {
+        "noisy":"[…] 1920 yılında, İngilizler tarafından İstanbul'da bir kulüb açıldı.",
+        "clean":"1920 yılında, İngilizler tarafından İstanbul'da bir kulüb açıldı.\n"
+    },
+    {
+        "noisy":"[…] 1920 yılında, İngilizler tarafından İstanbul'da bir kulüb açıldı.",
+        "clean":"1920 yılında, İngilizler tarafından İstanbul'da bir kulüb açıldı.\n"
+    },
+    {
+     "noisy": "1876] Hazîranın 4.\ncü günü sabâhı, sultân Abdül’azîzin Ortaköy sâhilinde Fer’ıyye serâyındaki odasından garîb sesler gelmeğe başladı.",
+     "clean": "1876 Haziranın 4.cü günü sabahı, sultan Abdül'azizin Ortaköy sahilinde Fer'ıyye serayındaki odasından garib sesler gelmeğe başladı.\n"
+    },
+    {
+        "noisy": "denildi Talebeye, Sultânı korumak için gidiyoruz denildi.",
+        "clean": "Talebeye, Sultanı korumak için gidiyoruz denildi.\n"
+    },
+    {
+        "noisy": "Sultânı tahtından indirmeğe ve öldürmeğe karâr verdi.",
+        "clean": "Sultanı tahtından indirmeğe ve öldürmeğe karar verdi.\n"
+    },
+    {
+        "noisy": "Londraya gidip, ingilizlerle bu i şi plânlaşdırdı.",
+        "clean": "Londra'ya gidip, ingilizlerle bu işi planlaşdırdı.\n"
+    },
+    {
+        "noisy": "Fâci’anın ikinci adamı Midhat pâşanın batı kültürü olmadığı gibi, din bilgisi de yokdu.",
+        "clean": "Faci'anın ikinci adamı Midhat paşanın Batı kültürü olmadığı gibi, din bilgisi de yokdu.\n"
+    },
+    {
+        "noisy": "Tuna ve Bağdâd vâlîliklerinde yapdığı işler, Avrupa basınında alkışlanmış, bilhâssa ingilizler tarafından şımartılmışdır.",
+        "clean": "Tuna ve Bağdad valiliklerinde yapdığı işler, Avrupa basınında alkışlanmış, bilhassa ingilizler tarafından şımartılmıştır.\n"
+    },
+    {
+        "noisy": "Hislerine kapılan, acele ve yanlış karârlar veren, bu yüzden iyi iş gör meğe müsâid olmıyan bir adamdı.",
+        "clean": "Hislerine kapılan, acele ve yanlış kararlar veren, bu yüzden iyi iş görmeğe müsaid olmıyan bir adamdı.\n"
+    },
+        
+    {
+        "noisy":"Sultân adına kendileri cevâb yazıp aldatdıkları, [m.\n1959] târîhli askerî târîh mecmû’asında uzun yazılıdır.[m.\n1967] de İstanbulda basılmış olan T.\nYılmaz Öztunanın (Türkiye târîhi)nin onikinci cildinde özetle diyor ki:\n(Sultân Abdül’azîzin hal’ edilmesi, birkaç ahlâksız veyâ sâfdil devlet adamının, şahsî ihtirâsları uğruna oldu.",
+        "clean":"Sultan adına kendileri cevap yazıp aldatdıkları, 1959 tarihli askeri tarih mecmu'asında uzun yazılıdır. 1967'de İstanbul'da basılmış olan T. Yılmaz Öztuna'nın Türkiye tarihi'nin on ikinci cildinde özetle diyor ki: \n\"Sultan Abdül'azizin hal' edilmesi, birkaç ahlaksız veya safdil devlet adamının, şahsî ihtirasları uğruna oldu.\"\n"
+    },
+    {
+        "noisy":"Mâliye nâzırı Yûsüf pâşa ise, (Mel’ûn herif [Avnî pâşa] pâdişâhın başını yidi.\nİnşâallah yakında o kâtil de katl edilir)",
+        "clean":"Maliye naziri Yusuf paşa ise, \"Mel'un herif, Avni paşa padişahın başını yidi. İnşaallah yakında o katil de katl edilir.\"\n"
+    },
+    {
+        "noisy":"Sadr-ı a’zam Mahmûd Nedîm pâşanın, kendisini merkezden uzaklaşdıracağını vehm ederek, hal’ işine karışdırdı.",
+        "clean":"Sadr-ı a'zam Mahmud Nedim paşanın, kendisini merkezden uzaklaşdıracağını vehm ederek, hal' işine karışdırdı.\n"
+    },
+    {
+        "noisy":"Avnî pâşa, hal’ projesi ile Midhat ve Şirvânîzâde Muhammed Rüşdü pâşalara, sonra zemânın sadr-ı a’zamı mütercim Rüşdü pâşaya açdı.",
+        "clean":"Avni paşa, hal' projesi ile Midhat ve Şirvânîzâde Muhammed Rüşdü paşalara, sonra zemânın sadr-ı a'zamı mütercim Rüşdü paşaya açdı.\n"
+    },
+    {
+        "noisy":"Şirvânîzâdeden yüz bulamayınca, onu Tâife sürdürdü ve orada zehrletdi.",
+        "clean":"Şirvanizadeden yüz bulamayınca, onu Taif'e sürdürdü ve orada zehirletdi.\n"
+    },
+    {
+        "noisy":"Midhat pâşa, sadr-ı a’zam Mahmûd Nedîm pâşanın, kendisini merkezden uzaklaşdıracağını vehm ederek, hal’ işine karışdırdı.",
+        "clean":"Midhat paşa, sadr-ı a'zam Mahmud Nedim paşanın, kendisini merkezden uzaklaşdıracağını vehm ederek, hal' işine karışdırdı.\n"
+    },
+    
+    {
+        "noisy":"Ruslar Ayastefanosa [Yeşilköye] kadar geldi.",
+        "clean":"Ruslar Ayastefanos'a, Yeşilköye, kadar geldi.\n"
+    },
+    {
+        "noisy":"İngilizler, bu mağlûbiyyeti fırsat bilerek, 20 Mayıs 1878 de, İstanbulda Alî Süâvî vak’asını çıkarıp, ikinci Abdülhamîd hânı devirmek, hilâfeti lağv etmek istedi ise de, muvaffak olamadı.",
+        "clean":"İngilizler, bu mağlubiyyeti fırsat bilerek, 20 Mayıs 1878'de, İstanbul'da Ali Süavi vak'asını çıkarıp, ikinci Abdülhamid hanı devirmek, hilâfeti lağv etmek istedi ise de, muvaffak olamadı.\n"
+    },
+    {
+        "noisy":"Alî Süâvî mason idi. Karısı ingiliz idi.",
+        "clean":"Ali Süavi mason idi. \nKarısı İngiliz idi.\n"
+    },
+    {
+        "noisy":"(Yeni Türkiye târîhi) diyor ki, (İkinci Abdülhamîd hânın diplomasisi [Aklı ve zekâsı] olmasaydı, 93 harbinin zararları dahâ büyük olacakdı).",
+        "clean":"Yeni Türkiye tarihi diyor ki, \"İkinci Abdülhamid hanın diplomasisi, aklı ve zekası olmasaydı, 93 harbinin zararları daha büyük olacakdı.\"\n"
+    },
+    {
+        "noisy":"Süleymân pâşa, bu inkılâbın meşrûtiyyet için yapıldığını söyleyince, Avnî pâşa, sen sus! Asker siyâsete karışmaz demişdir.",
+        "clean":"Süleyman paşa, bu inkılabın meşrutiyyet için yapıldığını söyleyince, Avni paşa, \"sen sus! Asker siyasete karışmaz.\", demiştir.\n"
+    },
+    {
+        "noisy":"Hâlbuki, kendisi, askeri çokdan siyâsete karışdırmıştı. Balkanlarda felâketli hâdiselerin patlak vermesine sebeb olmuştu. Nitekim, 2 Temmuzda Sırb ve Karadağ prenslikleri isyân etti. Balkanlar karıştı. 24 Nisan 1296 [m. 1877] de Rusyanın arabulucu teklîfi red edilerek, 93 harbi başladı. Hemen müşîr yapılan Süleymân pâşa, Şıpka geçidini ruslara kapdırınca, mağlûbiyyete sebeb oldu. Plevnede üç kerre zafer kazanarak gâzî ünvânını alan Osmân pâşayı kıskandı. Maçka meydân muharebelerini de gayb ederek, Edirneye kadar kaçdı. Böylece, Edirne de, harâb oldu. Ruslar Ayastefanosa [Yeşilköye] kadar geldi. İngilizler, bu mağlûbiyyeti fırsat bilerek, 20 Mayıs 1878 de, İstanbulda Alî Süâvî vak’asını çıkarıp, ikinci Abdülhamîd hânı devirmek, hilâfeti lağv etmek istedi ise de, muvaffak olamadı.",
+        "clean":"Halbuki, kendisi askeri çokdan siyasete karışdırmıştı. \nBalkanlarda felaketli hadiselerin patlak vermesine sebeb olmuştu. \nNitekim, 2 Temmuz Sırb ve Karadağ Prenslikleri isyan etti. \nBalkanlar karıştı. 24 Nisan 1926'de."
+    },
+    {
+        "noisy":"[1279] da Osmânlı bankası açıldı.",
+        "clean":"1279'da Osmani bankası açıldı.\n"
+    },
+    {
+        "noisy":"[1279] da posta pulu kullanıldı.",
+        "clean":"1279'da posta pulu kullanıldı.\n"
+    },
+    {
+        "noisy":"[1286] da Süveyş kanalı açıldı.",
+        "clean":"1286'da Süveyş kanalı açıldı.\n"
+    },
+    {
+        "noisy":"Boğaziçi tarafında, alt katda, arka tarafda, bir odada yerleşip, yetmişaltı yaşında iken, zâtürrie hastalığından vefât etdiği, 10 Şubat 1336 [m.\n1918] gününe kadar, burada yaşadı.\n294, 368.\n3 — ABDÜLBÂKÎ EFENDİ:\nMahmûd Bâki, Osmânlı şâirlerinin büyüklerindendir.",
+        "clean":"Boğaziçi tarafında, alt katda, arka tarafda, bir odada yerleşip, yetmiş altı yaşında iken, zatürrie hastalığından vefat etdiği, 10 Şubat 1336, miladi 1918 gününe kadar, burada yaşadı. \nMahmud Baki, Osmanlı şairlerinin büyüklerindendir.\n"
+    },
+    {
+        "noisy":"[1290] de, Semerkand, Buhâra ve Hiveyi işgâl etmelerine de sebeb oldular.",
+        "clean":"1290'da, Semerkand, Buhara ve Hiveyi işgal etmelerine de sebeb oldular.\n"
+    },
+    {
+        "noisy":"Ömrlerini Avrupada geçirdiler.",
+        "clean":"Ömrlerini Avrupa'da geçirdiler.\n"
+    },
+    {
+        "noisy":"Memleketde kaldıkları zemân, Tanzîmât fermânındaki mason plânlarının tatbîk edilmeleri için çalışdılar.",
+        "clean":"Memleketde kaldıkları zeman, Tanzimat fermanındaki mason planlarının tatbik edilmeleri için çalışdılar.\n"
+    },
+    {
+        "noisy":"Bu hiyânetlerinin sebebi mes’ûlü elbette Halîfenin gafleti idi.",
+        "clean":"Bu hiyanetlerinin sebebi mes'ulü elbette Halifenin gafleti idi.\n"
+    },
+    {
+        "noisy":"Bu gafletinin netîcesinde, masonlar ve onlara aldananlar tarafından şehîd edildi.",
+        "clean":"Bu gafletinin neticesinde, masonlar ve onlara aldananlar tarafından şehid edildi.\n"
+    },
+    {
+        "noisy":"Mahmûd Bâki, Osmânlı şâirlerinin büyüklerindendir.\n933 de İstanbulda tevellüd, 1008 [m.\n1600] de vefât etdi.\nEdirnekapı kabristânındadır.\nSüleymâniyye medresesinde müderris idi.\nReîsül-ulemâ oldu.\nHâlid ibni Zeydin haber verdiği hadîs-i şerîfleri bir araya toplamışdır.\n(Mevâhib-i ledünniyye) tercemesi meşhûrdur.\n63, 353.\n4 — ABDÜLCEBBÂR-İ HEMEDÂNÎ:\nMu’tezilî idi.\nKâdî idi.",
+        "clean":"Mahmûd Baki, Osmanlı şairlerinin büyüklerindendir. \n933'de İstanbul'da tevellüd, 1008'de, miladi 1600, vefat etti. \nEdirnekapı kabristanındadır. \nSüleymaniye medresesinde müderris idi. \nReisül-ulema oldu. \nHalid ibni Zeydin haber verdiği hadis-i şerifleri bir araya toplamıştır. \nMevahib-i ledünniyye, tercemesi meşhurdur. \nMu'tezili idi. \nKadi idi."
+    },
+    {
+        "noisy":"[359] de tevellüd etti.",
+        "clean":"359'da tevellüd etti.\n"
+    },
+    {
+        "noisy":"[415] de Rey şehrinde vefât etti.",
+        "clean":"415'de Rey şehrinde vefat etti.\n"
+    },
+    {
+        "noisy":"128, 130, 147, 148, 149, 245, 246.",
+        "clean":"\n"
+    },
+    {
+        "noisy":"Yedincisi Necmeddîn efendi temyiz mahkemesi a’zâsı idi.",
+        "clean":"Yedincisi Necmeddin efendi temyiz mahkemesi a'zası idi.\n"
+    },
+    {
+        "noisy":"Na’îme hânımın zevci ve Ahmed efendinin dâmâdı idi.",
+        "clean":"Na'ime hanımın zevci ve Ahmed efendinin damadı idi.\n"
+    },
+    {
+        "noisy":"1976] da İstanbulda vefât etdi..",
+        "clean":"1976'da İstanbul'da vefat etdi.\n"
+    },
+    {
+        "noisy":"Mustafâ efendinin dokuz oğlu ile iki kızı vardı.",
+        "clean":"Mustafa efendinin dokuz oğlu ile iki kızı vardı.\n"
+    },
+    {
+        "noisy":"Edirne-kapı kabristânındadır",
+        "clean":"Edirnekapı kabristanındadır.\n"
+    },
+    {
+        "noisy":"İkinci kızı Râbi’a hânımdır.",
+        "clean":"İkinci kızı Rabi'a hanımdır.\n"
+    },
+    {
+        "noisy":"Seyyid Muhammedin SEYFULLAH KITAPEVI üçüncü oğlu Nûreddîn [[}}efendidir.",
+        "clean":"Seyyid Muhammedin üçüncü oğlu Nureddin efendidir.\n"
+    },
+    {
+        "noisy":"Mecîd efendinin oğlu İzzet beğ, Nâfiye hânımın zevci olup, 1981 de Vanda vefât etti.",
+        "clean":"Mecid efendinin oğlu İzzet beğ, Nafiyye hanımın zevci olup, 1981'de Van'da vefat etti.\n"
+    },
+    {
+        "noisy":"Celâleddîn-i Rûmînin (Mesnevî)si üzerinde eşsiz, derin bilgisi vardır.",
+        "clean":"Celaleddin-i Rûmînin (Mesnevî)si üzerinde eşsiz, derin bilgisi vardır.\n"
+    },
+    {
+        "noisy":"1396 [m. 1976] da İstanbulda vefât etmişdir.",
+        "clean":"1396'da, miladi 1976, İstanbul'da vefat etmişdir.\n"
+    },
+    {
+        "noisy":"Yûsüf efendinin oğlu seyyid Fârûk Işık, eski sayıştay başkanlarından ve Van senatörlerindendir.",
+        "clean":"Yusuf efendinin oğlu Seyyid Faruk Işık, eski sayıştay başkanlarından ve Van senatörlerindendir.\n"
+    },
+    {
+        "noisy":"1972 senesinde Ankarada vefât etmişdir.",
+        "clean":"1972 senesinde Ankara'da vefat etmişdir.\n"
+    },
+    {
+        "noisy":"Fârûk beğin iki oğlu seyyid Nevzâd ve seyyid Rüchân hayâtdadır ve oğulları yetişmekdedir.",
+        "clean":"Faruk beğin iki oğlu Seyyid Nevzad ve Seyyid Rüchan hayatdadır ve oğulları yetişmekdedir.\n"
+    },
+    {
+        "noisy":"1399 [m.\n1979] da vefât etdi.",
+        "clean":"1399'da, miladi 1979, vefat etdi.\n"
+    },
+    {
+        "noisy":"Seyyid Abdülhakîm efendinin “kuddise sirruh” üçüncü oğlu, seyyid Münîr efendi, İstanbul belediyesinde satış me’mûrluğunda uzun seneler çalışmış, doğruluğu, çalışkanlığı, güzel ahlâkı ile etrâfının saygısını ve sevgisini toplamışdır.",
+        "clean":"Seyyid Abdülhakîm efendinin \"kuddise sirruh\" üçüncü oğlu, seyyid Münir efendi, İstanbul belediyesinde satış me'murluğunda uzun seneler çalışmış, doğruluğu, çalışkanlığı, güzel ahlakı ile etrafının saygısını ve sevgisi toplamışdır.\n"
+    },
+    {
+        "noisy":"1 399 [m.\n1979] da vefât etdi.",
+        "clean":"1399'da, miladi 1979, vefat etdi.\n"
+    },
+    {
+        "noisy":"Karyağdı tekkesine (Çolak Hüseyn tekkesi) de denir.",
+        "clean":"Karyağdı tekkesine, \"Çolak Hüseyn tekkesi\" de denir.\n"
+    },
+    {
+        "noisy":"Üçüncü Mustafâ hân tarafından yapdırılmışdır.",
+        "clean":"Üçüncü Mustafa han tarafından yapdırılmışdır.\n"
+    },
+    {
+        "noisy":"Bu tekkenin arkasında [1230] senesinde Dolancı dervîş Muhammed mevlevîhâne yapdırmıştır.",
+        "clean":"Bu tekkenin arkasında, 1230 senesinde, Dolancı derviş Muhammed mevlevihane yapdırmıştır.\n"
+    },
+    {
+        "noisy":"Seyyid Abdülhakîm efendinin din bilgilerinde ve tesavvufun ince ma’rifetlerinde derin deryâ idi.",
+        "clean":"Seyyid Abdülhakîm efendinin din bilgilerinde ve tesavvufun ince ma'rifetlerinde derin deryâ idi.\n"
+    },
+    {
+        "noisy":"(Râbıta-i şerîfe) ve (Er-riyâdut-tesavvufiyye) kitâbları basılmıştır.",
+        "clean":"Rabi'a-i şerife ve Er-riyadut-tesavvufiyye kitabları basılmıştır.\n"
+    },
+    {
+        "noisy":"Va’zlarından tutulan bilgiler ve ba’zı mektûbları 1404 [m. 1983] de beş cild hâlinde toplanmıştır.",
+        "clean":"Va'zlarından tutulan bilgiler ve ba'zı mektubları 1404'de, miladi 1983, beş cild halinde toplanmıştır.\n"
+    },
+    {
+        "noisy":"Üniversite mensûbları, fen ve devlet adamları, çözülemez sandıkları güç bilgileri sormağa gelir, sohbetinde, dersinde, bir sâat kadar oturunca, cevâbını alır, sormağa lüzûm kalmadan, o bilgi ile doymuş olarak geri dönerdi.",
+        "clean":"Üniversite mensublari, fen ve devlet adamlari, çözülemez sandıklarının güç bilgileri sormağa gelir, sohbetinde, dersinde, bir saat kadar oturunca, cevabını alir, sormağa lüzum kalmadan, o bilgi ile doymuş olarak geri dönerdi.\n"
+    },
+    {
+        "noisy":"Teveccühünü, sevgisini kazananlar, sayısız kerâmetler görürdü.",
+        "clean":"Teveccühünü, sevgisini kazananlar, sayısız kerametler görürdü.\n"
+    },
+    {
+        "noisy":"Keskin görüşleriyle, ANKARA YAYINLARI, karşısındakilerin niyyetlerini hemen anlardı.",
+        "clean":"Keskin görüşleriyle, karşısındakilerin niyyetlerini hemen anlardı.\n"
+    },
+    {
+        "noisy":"6, 20, 105, 154, 155, (157), 243, 262, 269, 314, 334, 347, 393, 395, 411.\n8 — ABDÜLHAKÎM SİYÂLKÛTÎ:\nBabası Şemseddîn Muhammeddir.",
+        "clean":"Babası Şemseddin Muhammeddir.\n"
+    },
+    {
+        "noisy":"İslâm halîfelerinin doksandokuzuncusu idi.",
+        "clean":"İslâm halîfelerinin doksandokuzuncusu idi.\n"
+    },
+    {
+        "noisy":"1258 [m. 1842] de tevellüd etdi.",
+        "clean":"1258'de, miladi 1842, tevellüd etti.\n"
+    },
+    {
+        "noisy":"1293 [m. 1876] de halîfe oldu.",
+        "clean":"1293'de, miladi 1876, halife oldu.\n"
+    },
+    {
+        "noisy":"1336 [m. 1918] da vefât etdi.",
+        "clean":"1336'da, miladi 1918, vefat etdi.\n"
+    },
+    {
+        "noisy":"Çenberlitaşda, dedesi sultân Mahmûdun türbesindedir.",
+        "clean":"Çenberlitaşda, dedesi sultan Mahmudun türbesindedir.\n"
+    },
+    {
+        "noisy":"İslâmiyyete hizmeti, saymakla bitirilemez.",
+        "clean":"İslâmiyyete hizmeti, saymakla bitirilemez.\n"
+    },
+    {
+        "noisy":"Abdül’azîz hân, düşmânlara âlet olanlar tarafından şehîd edilip, sonra 5. ci Murâd da hal’ edilip, kendisi kukla olarak halîfe yapıldı.",
+        "clean":"Abdül'aziz han, düşmanlara alet olanlar tarafından şehid edildi ve sonra 5. Murad da hal' edildi ve kendisi kukla olarak halife yapıldı.\n"
+    },
+    {
+        "noisy":"Avrupada belirli ocakların islâmiyyeti yok etmek için hâzırladığı yıkıcı plânları, kıyasıya hortlatmağa başlarken önlerine dikildi.",
+        "clean":"Avrupada belirli ocakların islâmiyyeti yok etmek için hazırladığı yıkıcı planları, kıyasıya hortlatmağa başlarken önlerine dikilmişti.\n"
+    },
+    {
+        "noisy":"Aklı, zekâsı ve ilmi fevkalâde üstün olduğu için, memlekete karşı asrlar boyunca hâzırlanmış olan sinsi, alçak ve vahşî sû’ikasdı hemen sezdi.",
+        "clean":"Aklı, zekâsı ve ilmi fevkalade üstün olduğu için, memlekete karşı asırlar boyunca hazırlanmış olan sinsi, alçak ve vahşi su'ikasdı hemen sezdi.\n"
+    },
+    {
+        "noisy":"Hâzırlıyanları ve maşa olarak kullandıkları ?' sahte kahramanları, iş başından uzaklaştırdı.",
+        "clean":"Hazırlıyanları ve maşa olarak kullandıkları sahte kahramanları, iş başından uzaklaştırdı.\n"
+    },
+    {
+        "noisy":"Sultân Abdülhamîd, buna da pek dâhiyâne çâre buldu.\n[m.\n1881] de Düyûn-i umûmiyye idâresi kurarak, borçları, ikiyüzelliiki milyondan, yüzaltı milyon osmânlı lirasına indirdi.\nBu büyük başarısı, memlekete unutulmaz bir hizmet oldu.",
+        "clean":"Sultan Abdülhamid, buna da pek dahiyane çare buldu.\n Miladi 1881'de Düyun-i umumiyye idaresi kurarak, borçları, iki yüz elli iki milyondan, yüz altı milyon osmanlı lirasına indirdi.\nBu büyük başarısı, memlekete unutulmaz bir hizmet oldu.\n"
+    },
+    {
+        "noisy":"11.\nci yılda vefât etdi “radıyallahü teâlâ anh”.",
+        "clean":"11. yılda vefat etdi \"radıyallahü teala anh\".\n"
+    },
+    {
+        "noisy":"9 Ferrûh bin Azîm-üş-şân bin Şâh-ı âlem 1098 1125 [m.\n1713] 10 Refî’udderecât bin Refî’üşşân bin Şâh-ı âlem — 1131 [m.",
+        "clean":"9 Ferruh bin Azim-üş-şan bin Şah-ı alem 1098-1125. \nmiladi 1713, 10 Refi'udderecat bin Refi'üşşan bin Şah-ı alem.\n"
+    },
+    {
+        "noisy": "Hâtimetü’l-Eş‘âr, basıldığı tarihten itibaren edebiyat tarihi< için önemli bi\nr kaynak hüviyetini taşımıştır.",
+        "clean": "Hatimetü’l-eş‘ar, basıldığı tarihten itibaren edebiyat tarihi için önemli bir kaynak hüviyetini taşımıştır.\n"
+      },
+      {
+        "noisy": "67şâiri ihtiva emekleedebiyat7ımızın en hacmli tezkiresi olma özelliğini kazanmışt2ır.",
+        "clean": "672 şairi ihtiva etmekle edebiyatımızın en hacimli tezkiresi olma özelliğini kazanmıştır.\n"
+      },
+      {
+        "noisy": "Kendi {de7vri içintek kayn{\nak olma8ına rağmen ge[ne de çok fazla abartılmamalıdır.",
+        "clean": "Kendi devri için tek kaynak olmasına rağmen gene de çok fazla abartılmamalıdır.\n"
+      },
+      {
+        "noisy": "Şâir ola n o lmayan- pek ç ok 2k[işiyi0* tezkirede göreiliriz.",
+        "clean": "Şair olan olmayan pek çok kişiyi tezkirede görebiliriz.\n"
+      },
+      {
+        "noisy": "Fatin, tanıdığı şairlereyeri bi biçimde eğer vermitir.",
+        "clean": "Fatin, tanıdığı şairlere yersiz bir biçimde değer vermiştir.\n"
+      },
+      {
+        "noisy": "Bu yüzdenzamanla çok tenkitl\n{ere maruz klmıştı>r.",
+        "clean": "Bu yüzden zamanla çok tenkitlere maruz kalmıştır.\n"
+      },
+      
+        {
+        "noisy": "Buna rağmen onlara değer vermemiş olduğuna dair açık b\nir kapı bır\nkmada fayda var{dır.",
+        "clean": "Buna rağmen onlara değer vermemiş olduğuna dair açık bir kapı bırakmada fayda vardır.\n"
+        },
+        {
+        "noisy": "Böylebir te>z6kireyi yazma4yı h[içbir z<amn kendsi isteemitir.",
+        "clean": "Böyle bir tezkireyi yazmayı hiçbir zaman kendisi istememiştir\n."
+        },
+        {
+        "noisy": "Bu tarz ifadelri b3tür} esrleri vücda geiren*insanların hemen hepsinde bulabildiğimiz için bunun öylesine söylenmiş bir söz olduğuna hükmedbil\niriz.",
+        "clean": "Bu tarz ifadeleri, bu tür eserleri vücuda getiren insanların hemen hepsinde bulabildiğimiz için bunun öylesine söylenmiş bir söz olduğuna hükmedebiliriz.\n"
+        },
+        {
+        "noisy": "Müllif bu yolla ya t\nev*âu etmekistemişt4r ya da kendi meziyye[t vekabiiyetini başkaları vasıtasıyla ıspatlamak istemştir.",
+        "clean": "Müellif bu yolla ya tevazu etmek istemiştir ya da kendi meziyyet ve kabiliyetini başkaları vasıtasıyla ıspatlamak istemiştir.\n"
+        },
+        {
+        "noisy": "ş\niiri*n faziletini anla9r.",
+        "clean": "Şiirin faziletini anlar.\n"
+        },
+        {
+        "noisy": "Bu anlatım, bu\n tarz eserlerin hemen heps\ninde2 mev<cut9ur.",
+        "clean": "Bu anlatım, bu tarz eserlerin hemen hepsinde mevcuttur.\n"
+        },
+        {
+        "noisy": "Kendi kendine yaz mıştır.",
+        "clean": "Kendi kendine yazmıştır.\n"
+        }   
+
+    
+]
