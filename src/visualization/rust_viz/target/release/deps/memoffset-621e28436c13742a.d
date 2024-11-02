@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\cook\Ottoman-NLP\OCR-Transformer\src\visualization\rust_viz\target\release\deps\libmemoffset-621e28436c13742a.rmeta: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\raw_field.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\offset_of.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\span_of.rs
+
+C:\Users\Administrator\Desktop\cook\Ottoman-NLP\OCR-Transformer\src\visualization\rust_viz\target\release\deps\libmemoffset-621e28436c13742a.rlib: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\raw_field.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\offset_of.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\span_of.rs
+
+C:\Users\Administrator\Desktop\cook\Ottoman-NLP\OCR-Transformer\src\visualization\rust_viz\target\release\deps\memoffset-621e28436c13742a.d: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\raw_field.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\offset_of.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\span_of.rs
+
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\raw_field.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\offset_of.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\memoffset-0.9.1\src\span_of.rs:

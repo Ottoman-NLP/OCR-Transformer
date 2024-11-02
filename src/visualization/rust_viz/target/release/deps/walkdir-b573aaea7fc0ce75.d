@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\cook\Ottoman-NLP\OCR-Transformer\src\visualization\rust_viz\target\release\deps\libwalkdir-b573aaea7fc0ce75.rmeta: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\dent.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\error.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\util.rs
+
+C:\Users\Administrator\Desktop\cook\Ottoman-NLP\OCR-Transformer\src\visualization\rust_viz\target\release\deps\libwalkdir-b573aaea7fc0ce75.rlib: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\dent.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\error.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\util.rs
+
+C:\Users\Administrator\Desktop\cook\Ottoman-NLP\OCR-Transformer\src\visualization\rust_viz\target\release\deps\walkdir-b573aaea7fc0ce75.d: C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\dent.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\error.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\util.rs
+
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\dent.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\error.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\util.rs:
