@@ -8,7 +8,7 @@ import time
 from src.models.transformer import Seq2SeqLSTM
 from src.models.dataset import NoisyWordDataset
 from src.utils.data_handler import DataHandler
-from src.visualization.qt_viz import TrainingVisualizer
+from src.visualization.training_viz import TrainingVisualizer
 from src.visualization.confusion_viz import ConfusionVisualizer
 from src.visualization.stats_viz import StatisticsVisualizer
 from src.visualization.error_viz import ErrorAnalysisVisualizer
@@ -224,6 +224,10 @@ def train(args):
                     'samples_processed': samples_processed,
                     'time_elapsed': time.time() - progress._start_time
                 })
+                
+                # Calculate average losses for this epoch
+                avg_train_loss = total_train_loss / len(train_loader)
+                avg_val_loss = total_val_loss / len(val_loader)
                 
                 # Update visualization if available
                 if visualizer:

@@ -1,9 +1,34 @@
 CompileFlags:
   Add:
+    # vcpkg includes
     - "-IC:/vcpkg/installed/x64-windows/include"
-    - "-IC:/vcpkg/installed/x64-windows/include/imgui"
+    - "-IC:/vcpkg/packages/pybind11_x64-windows/include"
+    
+    # Python includes (adjust Python311 to match your version if different)
     - "-IC:/Python311/include"
-    - "-I${workspaceFolder}/src/visualization/cpp"
+    
+    # Project includes
+    - "-I${workspaceRoot}/src/visualization/cpp"
+    - "-I${workspaceRoot}/src/visualization/cpp/imgui_impl"
+    
+    # Preprocessor definitions
     - "-DIMGUI_IMPL_API=__declspec(dllexport)"
     - "-DGLFW_DLL"
-  Compiler: clang++ 
+    - "-DGLFW_INCLUDE_NONE"
+    
+  # Use Clang compiler
+  Compiler: clang++
+
+# Enable all diagnostics
+Diagnostics:
+  ClangTidy:
+    Add: ["*"]
+    Remove: [
+      "llvmlibc-*",
+      "cppcoreguidelines-pro-type-vararg",
+      "hicpp-vararg"
+    ]
+
+# Index options
+Index:
+  Background: Build
