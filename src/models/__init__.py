@@ -1,4 +1,4 @@
-from .dataset import NoisyWordDataset
-from .transformer import Seq2SeqLSTM
+from .dataset import OttomanDataset
+from .ottoman_transformer import OttomanTransformer
 
-__all__ = ['NoisyWordDataset', 'Seq2SeqLSTM']
+__all__ = ['OttomanDataset', 'OttomanTransformer']
