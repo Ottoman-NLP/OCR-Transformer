@@ -1,0 +1,16 @@
+services:
+  ottoman-corrector:
+    image: ottoman-corrector
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 7860:7860
+    depends_on:
+      - ottoman-corrector-api
+
+  ottoman-corrector-api:
+    image: ottoman-corrector-api
+    build:
+      context: .
+      dockerfile: Dockerfile.api

@@ -1,0 +1,328 @@
+# sent_id = 1
+1	Bütün	bütün	DET	Adj	_	2	det	_	_
+2	gün	gün	NOUN	_	Case=Nom|Number=Sing|Person=3	7	obl	_	_
+3	kırlarda	kır	NOUN	_	Case=Loc|Number=Plur|Person=3	7	obl	_	_
+4	,	,	PUNCT	Comma	_	7	punct	_	_
+5	deniz	deniz	NOUN	_	Case=Nom|Number=Sing|Person=3	6	nmod:poss	_	_
+6	kenarlarında	kenar	NOUN	_	Case=Loc|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	7	obl	_	_
+7	dolaştık	dolaş	VERB	_	Aspect=Perf|Evident=Fh|Number=Plur|Person=1|Polarity=Pos|Tense=Past	0	root	_	_
+8	.	.	PUNCT	Stop	_	7	punct	_	_
+
+# sent_id = 2
+1	Güneş	Güneş	NOUN	_	Case=Nom|Number=Sing|Person=3	12	nsubj	_	_
+2	,	,	PUNCT	Comma	_	1	punct	_	_
+3	hayale	hayal	NOUN	_	Case=Dat|Number=Sing|Person=3	4	obj	_	_
+4	müsaade	müsaade	NOUN	_	Case=Nom|Number=Sing|Person=3	6	acl	_	_
+5	etmeyecek	et	VERB	Ptcp	Aspect=Prosp|Number=Sing|Person=3|Polarity=Neg|Tense=Fut	4	compound:lvc	_	_
+6	tarzda	tarz	NOUN	_	Case=Loc|Number=Sing|Person=3	12	obl	_	_
+7	her	her	DET	Det	_	8	det	_	_
+8	şeyi	şey	NOUN	_	Case=Acc|Number=Sing|Person=3	12	obj	_	_
+9	vazıh	vazıh	NOUN	_	_	12	xcomp	_	_
+10	ve	ve	CCONJ	_	_	11	cc	_	_
+11	berrak	berrak	ADJ	_	_	9	conj	_	_
+12	gösterdiği	göster	VERB	Ptcp	Aspect=Perf|Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	16	obl	_	_
+13	için	için	ADP	PCNom	_	12	case	_	_
+14	yalnız	yalnız	ADV	_	_	16	advmod	_	_
+15	gözlerimizle	göz	NOUN	_	Case=Dat|Number=Plur|Number[psor]=Plur|Person=3|Person[psor]=1	16	nmod	_	_
+16	yaşadık	yaşa	VERB	_	Aspect=Perf|Evident=Fh|Number=Plur|Person=1|Polarity=Pos|Tense=Past	0	root	_	_
+17	ve	ve	CCONJ	_	_	19	cc	_	_
+18	hiç	hiç	ADV	_	_	19	advmod	_	_
+19	eğlenmedik	eğlen	VERB	_	Aspect=Perf|Evident=Fh|Number=Plur|Person=1|Polarity=Neg|Tense=Past	16	conj	_	_
+20	.	.	PUNCT	Stop	_	19	punct	_	_
+
+# sent_id = 3
+1	Ağaçların	ağaç	NOUN	_	Case=Gen|Number=Plur|Person=3	3	nmod:poss	_	_
+2	tozlu	tozlu	ADJ	Adj	_	3	amod	_	_
+3	yapraklarını	yaprak	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	24	obj	_	_
+4	,	,	PUNCT	Comma	_	9	punct	_	_
+5	kayalar	kaya	NOUN	_	Case=Nom|Number=Plur|Person=3	6	nmod:poss	_	_
+6	üzerinde	Üzer	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	obl	_	_
+7	durup	dur	VERB	Conv	Polarity=Pos|VerbForm=Conv	8	advcl	_	_
+8	soyulan	soy	VERB	Ptcp	Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	9	acl	_	_
+9	kertenkeleleri	kertenkele	NOUN	_	Case=Acc|Number=Plur|Person=3	3	conj	_	_
+10	,	,	PUNCT	Comma	_	16	punct	_	_
+11	denizin	deniz	NOUN	_	Case=Gen|Number=Sing|Person=3	13	nmod:poss	_	_
+12	kirli	kirli	ADJ	Adj	_	13	amod	_	_
+13	suları	su	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	14	nmod:poss	_	_
+14	altında	alt	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	16	obl	_	_
+15	cam	cam	ADJ	Adj	Case=Nom|Number=Sing|Person=3	16	nmod:poss	_	_
+16	kırıklarını	kırık	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	3	conj	_	_
+17	,	,	PUNCT	Comma	_	19	punct	_	_
+18	paslı	paslı	ADJ	Adj	_	19	amod	_	_
+19	tenekeleri	teneke	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	3	conj	_	_
+20	,	,	PUNCT	Comma	_	19	punct	_	_
+21	eski	eski	ADJ	Adj	_	23	amod	_	_
+22	pabuç	pabuç	NOUN	_	Case=Nom|Number=Sing|Person=3	23	nmod:poss	_	_
+23	nâşlarını	nâş	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	3	conj	_	_
+24	seyretmenin	seyret	VERB	Vnoun	Case=Gen|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	29	nsubj	_	_
+25	ne	ne	ADV	Ques	_	27	advmod	_	_
+26	kadar	kadar	ADP	PCDat	_	25	case	_	_
+27	çabuk	çabuk	ADV	_	_	30	advmod	_	_
+28	ruha	ruh	NOUN	_	Case=Dat|Number=Sing|Person=3	29	iobj	_	_
+29	kesel	kesel	NOUN	_	Case=Nom|Number=Sing|Person=3	31	obj	_	_
+30	verdiğini	ver	VERB	Ptcp	Aspect=Perf|Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	31	ccomp	_	_
+31	tecrübe	tecrübe	NOUN	_	Case=Nom|Number=Sing|Person=3	33	csubj	_	_
+32	etmeyen	et	VERB	Ptcp	Polarity=Neg|Tense=Pres|VerbForm=Part	31	compound:lvc	_	_
+33	var	var	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	0	root	_	_
+34	mı	mi	AUX	Ques	Aspect=Imp|Number=Sing|Person=3|Tense=Pres	33	discourse:q	_	_
+35	?	?	PUNCT	Ques	_	33	punct	_	_
+
+# sent_id = 4
+1	Güneşli	güneşli	ADJ	Adj	_	2	amod	_	_
+2	kırlarda	kır	NOUN	_	Case=Loc|Number=Plur|Person=3	3	obl	_	_
+3	geçen	geç	VERB	Ptcp	Polarity=Pos|Tense=Pres|VerbForm=Part	6	acl	_	_
+4	bir	bir	DET	Indef	_	6	det	_	_
+5	gezinti	gezinti	NOUN	_	Case=Nom|Number=Sing|Person=3	6	nmod:poss	_	_
+6	gününden	gün	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	15	obl	_	_
+7	sonra	sonra	ADP	PCAbl	_	6	case	_	_
+8	,	,	PUNCT	Comma	_	7	punct	_	_
+9	akşamüstü	akşamüstü	ADV	_	_	14	advmod	_	_
+10	eve	ev	NOUN	_	Case=Dat|Number=Sing|Person=3	14	obl	_	_
+11	mahzun	mahzun	ADJ	Adj	_	14	xcomp	_	_
+12	ve	ve	CCONJ	_	_	13	cc	_	_
+13	nevmid	nevmid	NOUN	_	Case=Nom|Number=Sing|Person=3	11	conj	_	_
+14	dönmemenin	dön	VERB	Vnoun	Case=Gen|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	15	csubj	_	_
+15	mümkün	mümkün	ADJ	Adj	_	18	ccomp	_	_
+16	olmadığını	ol	VERB	Ptcp	Aspect=Perf|Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Neg|Tense=Past|VerbForm=Part	15	compound:lvc	_	_
+17	tecrübelerimle	tecrübe	NOUN	_	Case=Ins|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=1	18	nmod	_	_
+18	bilirim	bil	VERB	_	Aspect=Hab|Number=Sing|Person=1|Polarity=Pos|Tense=Pres	0	root	_	_
+19	.	.	PUNCT	Stop	_	18	punct	_	_
+
+# sent_id = 5
+1	Güneş	Güneş	PROPN	_	Case=Nom|Number=Sing|Person=3	13	nsubj	_	_
+2	,	,	PUNCT	Comma	_	1	punct	_	_
+3	bütün	bütün	DET	Adj	_	4	det	_	_
+4	gün	gün	NOUN	_	Case=Nom|Number=Sing|Person=3	11	obl	_	_
+5	,	,	PUNCT	Comma	_	4	punct	_	_
+6	insana	insan	NOUN	_	Case=Dat|Number=Sing|Person=3	11	iobj	_	_
+7	doğru	doğru	ADP	PCDat	_	10	amod	_	_
+8	fakat	fakat	CCONJ	_	_	9	cc	_	_
+9	acı	acı	ADJ	Adj	_	7	conj	_	_
+10	şeyler	şey	NOUN	_	Case=Acc|Number=Plur|Person=3	11	obj	_	_
+11	söyleyen	söyle	VERB	Ptcp	Polarity=Pos|Tense=Pres|VerbForm=Part	13	acl	_	_
+12	bir	bir	DET	Indef	_	13	det	_	_
+13	arkadaştır	arkadaş	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
+14	.	.	PUNCT	Stop	_	13	punct	_	_
+
+# sent_id = 6
+1	Onun	o	PRON	Pers	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	_
+2	ışığında	ışık	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	obl	_	_
+3	eğlenmenin	eğlen	VERB	Vnoun	Case=Gen|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	8	nmod:poss	_	_
+4	ve	ve	CCONJ	_	_	6	cc	_	_
+5	mes’ut	mes’ut	NOUN	_	Case=Acc|Number=Sing|Person=3	6	obj	_	_
+6	olmanın	ol	VERB	Vnoun	Case=Gen|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	3	conj	_	_
+7	hiç	hiç	ADV	_	_	8	advmod	_	_
+8	imkânı	imkân	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	nsubj	_	_
+9	var	var	NOUN	Exist	Number=Sing|Person=3|Polarity=Pos	0	root	_	_
+10	mı	mi	AUX	Ques	Aspect=Imp|Number=Sing|Person=3|Tense=Pres	9	discourse:q	_	_
+11	?	?	PUNCT	Ques	_	10	punct	_	_
+
+# sent_id = 7
+1	Nihayet	nihayet	ADV	_	_	3	advmod	_	_
+2	akşam	akşam	NOUN	_	Case=Nom|Number=Sing|Person=3	3	obj	_	_
+3	oldu	ol	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+4	.	.	PUNCT	Stop	_	3	punct	_	_
+
+# sent_id = 8
+1	Karanlık	karanlık	NOUN	_	Case=Nom|Number=Sing|Person=3	2	nsubj	_	_
+2	bastı	bas	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+3	.	.	PUNCT	Stop	_	2	punct	_	_
+
+# sent_id = 9
+1	Karşı	karşı	ADV	_	_	3	advmod	_	_
+2	karşıya	karşı	ADJ	NAdj	Case=Dat|Number=Sing|Person=3	1	compound:redup	_	_
+3	oturmuş	otur	VERB	Ptcp	Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	5	acl	_	_
+4	iki	iki	NUM	ANum	NumType=Card	5	nummod	_	_
+5	insan	insan	NOUN	_	Case=Nom|Number=Sing|Person=3	9	dep	_	_
+6	,	,	PUNCT	Comma	_	9	punct	_	_
+7	artık	artık	ADV	_	_	9	advmod	_	_
+8	yüzlerimizi	yüz	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Plur|Person=3|Person[psor]=1	9	obj	_	_
+9	görmüyor	gör	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	_
+10	,	,	PUNCT	Comma	_	13	punct	_	_
+11	yalnız	yalnız	ADV	_	_	12	advmod	_	_
+12	seslerimizi	ses	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Plur|Person=3|Person[psor]=1	13	obj	_	_
+13	duyuyorduk	duy	VERB	_	Aspect=Perf|Evident=Fh|Number=Plur|Person=1|Polarity=Pos|Tense=Past	9	conj	_	_
+14	.	.	PUNCT	Stop	_	13	punct	_	_
+
+# sent_id = 10
+1	Birden	birden	ADV	_	_	12	advmod	_	_
+2	,	,	PUNCT	Comma	_	12	punct	_	_
+3	arkamızda	arka	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=1	10	obl	_	_
+4	garip	garip	ADJ	Adj	_	6	amod	_	_
+5	bir	bir	DET	Indef	_	6	det	_	_
+6	fısıltıyı	fısıltı	NOUN	_	Case=Acc|Number=Sing|Person=3	7	obj	_	_
+7	andıran	andır	VERB	Ptcp	Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Cau	9	acl	_	_
+8	bir	bir	DET	Indef	_	9	det	_	_
+9	hışırtı	hışırtı	NOUN	_	Case=Acc|Number=Sing|Person=3	10	obj	_	_
+10	duyar	duy	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	12	ccomp	_	_
+11	gibi	gibi	ADP	PCNom	_	10	case	_	_
+12	olduk	ol	VERB	_	Aspect=Perf|Evident=Fh|Number=Plur|Person=1|Polarity=Pos|Tense=Past	0	root	_	_
+13	.	.	PUNCT	Stop	_	12	punct	_	_
+
+# sent_id = 11
+1	Başımızı	baş	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=1	2	obj	_	_
+2	çevirdik	çevir	VERB	_	Aspect=Perf|Evident=Fh|Number=Plur|Person=1|Polarity=Pos|Tense=Past	0	root	_	_
+3	:	:	PUNCT	Punc	_	2	punct	_	_
+4	İki	iki	NUM	ANum	NumType=Card	7	nummod	_	_
+5	büyük	büyük	ADJ	Adj	_	7	amod	_	_
+6	fıstık	fıstık	NOUN	_	Case=Nom|Number=Sing|Person=3	7	nmod:poss	_	_
+7	ağacı	ağaç	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	8	nmod:poss	_	_
+8	arkasından	arka	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	11	obl	_	_
+9	kırmızı	kırmızı	ADJ	Adj	_	11	amod	_	_
+10	bir	bir	DET	Indef	_	11	det	_	_
+11	ay	ay	NOUN	_	Case=Nom|Number=Sing|Person=3	16	nsubj	_	_
+12	,	,	PUNCT	Comma	_	16	punct	_	_
+13	sanki	sanki	ADV	_	_	16	advmod	_	_
+14	yapraklara	yaprak	NOUN	_	Case=Dat|Number=Plur|Person=3	15	obj	_	_
+15	sürünerek	sürün	VERB	Conv	Aspect=Prog|Polarity=Pos|VerbForm=Conv|Voice=Pass	16	advcl	_	_
+16	yükseliyordu	yüksel	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	2	conj	_	_
+17	.	.	PUNCT	Stop	_	16	punct	_	_
+
+# sent_id = 12
+1	Birden	birden	ADV	_	_	6	advmod	_	_
+2	etrafımızda	etraf	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=1	6	obl	_	_
+3	dünyanın	Dünya	NOUN	_	Case=Gen|Number=Sing|Person=3	5	nmod:poss	_	_
+4	bütün	bütün	DET	Adj	_	5	det	_	_
+5	manzaraları	manzara	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	6	nsubj	_	_
+6	değişti	değiş	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+7	:	:	PUNCT	Punc	_	20	punct	_	_
+8	Sanki	sanki	ADV	_	_	20	advmod	_	_
+9	Japonyalı	Japonyali	PROPN	Adj	_	11	amod	_	_
+10	bir	bir	DET	Indef	_	11	det	_	_
+11	ressamın	ressam	NOUN	_	Case=Gen|Number=Sing|Person=3	14	nsubj	_	_
+12	siyah	siyah	ADJ	Adj	_	13	amod	_	_
+13	mürekkeple	mürekkep	NOUN	_	Case=Ins|Number=Sing|Person=3	14	nmod	_	_
+14	çizdiği	çiz	VERB	Ptcp	Aspect=Perf|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	19	acl	_	_
+15	mübhem	mübhem	ADJ	Adj	_	19	amod	_	_
+16	ve	ve	CCONJ	_	_	17	cc	_	_
+17	nâtamam	nâtamam	ADJ	Adj	Case=Nom|Number=Sing|Person=3	15	conj	_	_
+18	bir	bir	DET	Indef	_	19	det	_	_
+19	âlem	âlem	NOUN	_	Case=Nom|Number=Sing|Person=3	20	nmod:poss	_	_
+20	içinde	iç	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	conj	_	_
+21	idik	y	AUX	Zero	Aspect=Perf|Evident=Fh|Number=Plur|Person=1|Polarity=Pos|Tense=Past	20	cop	_	_
+22	.	.	PUNCT	Stop	_	20	punct	_	_
+
+# sent_id = 13
+1	Artık	artık	ADV	_	_	7	advmod	_	_
+2	her	her	DET	Det	_	3	det	_	_
+3	şeyi	şey	NOUN	_	Case=Acc|Number=Sing|Person=3	5	obj	_	_
+4	sarahatle	sarahat	NOUN	_	Case=Ins|Number=Sing|Person=3	5	nmod	_	_
+5	görmek	gör	VERB	Vnoun	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	6	nmod:poss	_	_
+6	izdirabından	izdirabı	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	obj	_	_
+7	kurtulmuştuk	kurtul	VERB	_	Aspect=Perf|Evident=Fh|Number=Plur|Person=1|Polarity=Pos|Tense=Past	0	root	_	_
+8	.	.	PUNCT	Stop	_	7	punct	_	_
+
+# sent_id = 14
+1	Yanlış	yanlış	ADJ	Adj	_	2	advmod	_	_
+2	görmke	görmke	VERB	Vnoun	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	6	nmod:poss	_	_
+3	ve	ve	CCONJ	_	_	4	cc	_	_
+4	tahayyül	tahayyül	NOUN	_	Case=Nom|Number=Sing|Person=3	2	conj	_	_
+5	etmek	et	VERB	Vnoun	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	4	compound:lvc	_	_
+6	imkânının	imkân	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	nmod:poss	_	_
+7	sarhoşluğu	sarhoşluk	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	16	nsubj	_	_
+8	vücudumuzu	vücut	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=1	16	obj	_	_
+9	,	,	PUNCT	Comma	_	16	punct	_	_
+10	yavaş	yavaş	ADV	Adj	_	16	advmod	_	_
+11	yavaş	yavaş	ADJ	Adj	_	10	compound:redup	_	_
+12	bir	bir	DET	Indef	_	14	det	_	_
+13	afyon	afyon	NOUN	_	Case=Nom|Number=Sing|Person=3	14	nmod:poss	_	_
+14	dumanı	duman	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	16	obl	_	_
+15	gibi	gibi	ADP	PCNom	_	14	case	_	_
+16	uyuşturuyordu	uyuş	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Cau	0	root	_	_
+17	.	.	PUNCT	Stop	_	16	punct	_	_
+
+# sent_id = 15
+1	Etrafımızda	etraf	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=1	11	obl	_	_
+2	,	,	PUNCT	Comma	_	1	punct	_	_
+3	gündüzün	gündüz	NOUN	_	Case=Gen|Number=Sing|Person=3	6	nmod:poss	_	_
+4	bütün	bütün	DET	Adj	_	6	det	_	_
+5	uyuz	uyuz	NOUN	_	Case=Nom|Number=Sing|Person=3	6	amod	_	_
+6	ağaçları	ağaç	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	7	nmod:poss	_	_
+7	yerine	yer	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	11	obl	_	_
+8	zengin	zengin	ADJ	Adj	_	10	amod	_	_
+9	bir	bir	DET	Indef	_	10	det	_	_
+10	orman	orman	NOUN	_	Case=Nom|Number=Sing|Person=3	11	nsubj	_	_
+11	vücud	vücud	NOUN	_	Case=Acc|Number=Sing|Person=3	0	root	_	_
+12	bulmuştu	bul	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	11	compound	_	_
+13	.	.	PUNCT	Stop	_	12	punct	_	_
+
+# sent_id = 16
+1	Karşıda	karşı	NOUN	_	Case=Loc|Number=Sing|Person=3	3	obl	_	_
+2	yemek	yemek	NOUN	_	Case=Acc|Number=Sing|Person=3	3	obj	_	_
+3	yiyen	ye	VERB	Ptcp	Polarity=Pos|Tense=Pres|VerbForm=Part	5	acl	_	_
+4	fakir	fakir	ADJ	Adj	_	5	amod	_	_
+5	ailenin	aile	NOUN	_	Case=Gen|Number=Sing|Person=3	7	nmod:poss	_	_
+6	kirli	kirli	ADJ	Adj	_	7	amod	_	_
+7	kızları	kız	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	16	nsubj	_	_
+8	,	,	PUNCT	Comma	_	7	punct	_	_
+9	yüzlerine	yüz	NOUN	_	Case=Dat|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	10	obj	_	_
+10	vuran	vur	VERB	Ptcp	Polarity=Pos|Tense=Pres|VerbForm=Part	12	acl	_	_
+11	ay	ay	NOUN	_	Case=Nom|Number=Sing|Person=3	12	nmod:poss	_	_
+12	ışığı	ışık	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	13	nmod:poss	_	_
+13	içinde	iç	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	17	obl	_	_
+14	birer	bir	NUM	ANum	NumType=Dist	15	nummod	_	_
+15	murassâ	murassâ	NOUN	_	Case=Nom|Number=Sing|Person=3	16	acl	_	_
+16	hayal	hayal	NOUN	_	Case=Nom|Number=Sing|Person=3	17	obj	_	_
+17	olmuşlardı	ol	VERB	_	Aspect=Perf|Evident=Fh|Number=Plur|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+18	.	.	PUNCT	Stop	_	17	punct	_	_
+
+# sent_id = 17
+1	Denizin	deniz	NOUN	_	Case=Gen|Number=Sing|Person=3	3	nmod:poss	_	_
+2	bulanık	bulanık	ADJ	Adj	_	3	amod	_	_
+3	suları	su	NOUN	_	Case=Acc|Number=Plur|Person=3	4	nsubj	_	_
+4	boşalmış	boşal	VERB	_	Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+5	ve	ve	CCONJ	_	_	18	cc	_	_
+6	onun	o	PRON	Pers	Case=Gen|Number=Sing|Person=3|PronType=Prs	7	nmod:poss	_	_
+7	yerine	yer	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	18	obl	_	_
+8	şimdi	şimdi	ADV	_	_	18	advmod	_	_
+9	sahilin	sahil	NOUN	_	Case=Gen|Number=Sing|Person=3	10	nmod:poss	_	_
+10	kumları	kum	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	11	nmod:poss	_	_
+11	üzerinde	Üzer	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	15	obl	_	_
+12	ziyadan	ziyadan	NOUN	_	Case=Abl|Number=Sing|Person=3	14	obl	_	_
+13	bir	bir	DET	Indef	_	14	det	_	_
+14	mâyi	mâyi	NOUN	_	Case=Nom|Number=Sing|Person=3	18	csubj	_	_
+15	sallanıp	salla	VERB	Conv	Polarity=Pos|VerbForm=Conv|Voice=Pass	18	advcl	_	_
+16	bir	bir	DET	Indef	_	17	det	_	_
+17	şarkı	şarkı	NOUN	_	Case=Acc|Number=Sing|Person=3	18	obj	_	_
+18	söylüyordu	söyle	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	4	conj	_	_
+19	.	.	PUNCT	Stop	_	18	punct	_	_
+
+# sent_id = 18
+1	Dünyanın	Dünya	NOUN	_	Case=Gen|Number=Sing|Person=3	2	nmod:poss	_	_
+2	güzelliğinden	güzellik	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	obj	_	_
+3	korkmaya	kork	VERB	Vnoun	Case=Dat|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	4	ccomp	_	_
+4	başlamıştık	başla	VERB	_	Aspect=Perf|Evident=Fh|Number=Plur|Person=1|Polarity=Pos|Tense=Past	0	root	_	_
+5	.	.	PUNCT	Stop	_	4	punct	_	_
+
+# sent_id = 19
+1	Zira	zira	CCONJ	_	_	9	cc	_	_
+2	aydan	ay	NOUN	_	Case=Abl|Number=Sing|Person=3	3	obl	_	_
+3	akan	ak	VERB	Ptcp	Polarity=Pos|Tense=Pres|VerbForm=Part	4	acl	_	_
+4	büyünün	büyü	NOUN	_	Case=Gen|Number=Sing|Person=3	5	nmod:poss	_	_
+5	saadetiyle	saadet	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	nmod	_	_
+6	ruhlarımız	ruh	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person=3|Person[psor]=1	7	nsubj	_	_
+7	çatlayacak	çatla	VERB	Ptcp	Aspect=Prosp|Polarity=Pos|Tense=Fut|VerbForm=Part	9	advcl	_	_
+8	kadar	kadar	ADP	PCDat	_	7	case	_	_
+9	dolmuştu	dol	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+10	.	.	PUNCT	Stop	_	9	punct	_	_
+
+# sent_id = 20
+1	Ay!	Ay!	PROPN	_	_	17	discourse	_	_
+2	Ay!	Ay!	PROPN	_	Case=Nom|Number=Sing|Person=3	1	flat	_	_
+3	Yalancı	yalancı	ADJ	Adj	_	4	amod	_	_
+4	ay!	ay!	NOUN	_	Case=Nom|Number=Sing|Person=3	1	flat	_	_
+5	Zekâdan	zekâ	NOUN	_	Case=Abl|Number=Sing|Person=3	6	obl	_	_
+6	harab	harab	NOUN	_	Case=Nom|Number=Sing|Person=3	8	obj	_	_
+7	olanları	ol	VERB	Ptcp	Case=Acc|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=3|Polarity=Pos|Tense=Pres|VerbForm=Part	6	compound:lvc	_	_
+8	dinlendiren	dinlen	VERB	Ptcp	Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Cau	9	acl	_	_
+9	hayal	hayal	NOUN	_	Case=Nom|Number=Sing|Person=3	17	obl	_	_
+10	gibi	gibi	ADP	PCNom	_	9	case	_	_
+11	,	,	PUNCT	Comma	_	17	punct	_	_
+12	güneşten	güneş	NOUN	_	Case=Abl|Number=Sing|Person=3	13	obl	_	_
+13	bunalanları	bunal	VERB	Ptcp	Case=Acc|Number=Plur|Person=3	15	obj	_	_
+14	da	da	PART	Emph	_	13	advmod:emph	_	_
+15	teselli	teselli	NOUN	_	Case=Nom|Number=Sing|Person=3	17	acl	_	_
+16	eden	et	VERB	Ptcp	Polarity=Pos|Tense=Pres|VerbForm=Part	15	compound:lvc	_	_
+17	sensin	sen	PRON	_	Case=Gen|Number=Sing|Person=3	0	root	_	_
+18	!	!	PUNCT	Excl	_	17	punct	_	_
+

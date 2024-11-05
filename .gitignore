@@ -24,6 +24,7 @@ wheels/
 checkpoints/*
 outputs/visualization/*
 *.pt
+.venv/
 
 # Logs
 logs/*
@@ -32,3 +33,5 @@ logs/*
 # IDE
 .vscode/
 .idea/ 
+.pytest_cache/
+./__pycache__/
